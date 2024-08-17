@@ -26,20 +26,29 @@ This project is about visualizing the time table of the Faculty of Applied Scien
 
 <a href="https://github.com/menashabs/TeaExportRevenue_Analysis" target="_blank">Code</a><br>
 
-This project is about modelling and forecasting the tea export revenue in Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts. 
+This project is about modelling and forecasting the tea export revenue in Sri Lanka. The data set was collected from the Central Bank of Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts. 
+
+* Myth analysis about mosquito bites and HIV/AIDS 
+
+![](image_mythanalysis.jpg)
+
+<a href="https://github.com/menashabs/MosquitoBiteMyth_Analysis" target="_blank">Code</a><br>
+
+This project investigated how the knowledge regarding the myth of HIV/AIDS, “People can get HIV virus from mosquito bites” varies on ever-married women’s socio-demographic characteristics. This study is based on Sri Lanka Demographic and Health survey (DHS) in 2016 conducted by the Department of Census and Statistics (DCS). A logistic regression model was fitted based on the analysis.
 
 ----
 
 ## Statistical Consultancy Projects
 
-* 
-* The project from a client from the Department of Food Science and Technology, Faculty of Applied Sciences, University of Sri Jayewardenepura. Consulted the client on the descriptive analysis of data, data modeling and model fitting and interpretation of the statistical outputs. Created and delivered an R function for the needed statistical data analysis. Providing interpretations for the outputs taken and delivered to the client along with the reasons.
+* The client who was pursuing the MPhil needed to identify the plant assemblage in the wetland and its relationship with water quality and soil quality. One way ANOVA models were used to find the effect of vegetation type on each water quality parameter. Next the MANOVA model was used to find the effect of vegetation type on water quality and soil quality parameters collectively. Finally, the tukey test was used to find the significantly different vegetation types for each variable. A report containing the methodology, outputs and interpretations was delivered.
+* The client wanted to determine the characterization of phytochemical composition, antioxidant and anti-inflammatory properties of aerial roots of Ficus benghalensis. Statistical analysis was done and a report containing the methodology, outputs and interpretations was delivered. 
+* The client from the Department of Mathematics mainly expected to analyze the final grade against attendance in the MAT 211 1.0 Linear Algebra II course unit. They provided the mid exam marks, final exam marks and attendance of the students. Exploratory data analysis and creation of a dashboard was done and delivered to the client.
+* The project from a postgraduate client. The purpose was to visualize the Dengue hotspots and maps from the provided shapefiles. The initial dengue hotspot visualization and a report for Dengue hotspot Visualization were created. Provided guidelines to be followed when shapefiles with matching coordinate systems are available and provided a reusable code to be used in the analysis.
+* The project submitted by a client from the Department of Food Science and Technology, Faculty of Applied Sciences, University of Sri Jayewardenepura. Consulted the client on the descriptive analysis of data, data modeling and model fitting and interpretation of the statistical outputs. Created and delivered an R function for the needed statistical data analysis. Providing interpretations for the outputs taken and delivered to the client along with the reasons.
 
 ----
 
 ## Collaborative Projects
 
-* SBPTD Project 
-
-This project was done with the Ministry of Education, Sri Lanka. A program was implemented by the Ministry in order to improve the teachers' teaching and students' learning. Data collection was done from a sample of schools. I was responsible in data entry and data analysis for this project. 
+* SBPTD project was done with the Ministry of Education, Sri Lanka. A program was implemented by the Ministry in order to improve the teachers' teaching and students' learning. Data collection was done from a sample of schools. I was responsible in data entry and data analysis for this project. 
 

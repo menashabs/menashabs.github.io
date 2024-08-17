@@ -10,10 +10,10 @@ The project was done in collaboration with Department of Statistics, Faculty of 
 
 Tasks completed: <br>
 
-+ Created the course outline.
-+ Created the course content.
-+ Created the teaching materials. 
-+ Conducted the teaching sessions.
+* Created the course outline.
+* Created the course content.
+* Created the teaching materials. 
+* Conducted the teaching sessions.
 
 ----
 
