@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "ea4c77d6"
+  },
+  "projects/index.qmd": {
+    "index.html": "4cbf8c86"
+  },
+  "photography/index.qmd": {
+    "index.html": "fddeb912"
+  },
+  "cv/index.qmd": {
+    "index.html": "18036299"
+  },
+  "404.qmd": {
+    "404.html": "fba89eea"
+  },
+  "1_projects/index.qmd": {
+    "index.html": "77a729ec"
+  },
+  "2_publications/index.qmd": {
+    "index.html": "4eb28203"
+  },
+  "3_blog/index.qmd": {
+    "index.html": "ae599e05"
+  },
+  "4_teaching/index.qmd": {
+    "index.html": "a591833e"
+  },
+  "#_cv/index.qmd": {
+    "index.html": "8126f26a"
+  },
+  "3_workshops/index.qmd": {
+    "index.html": "57660c7a"
+  },
+  "2_blog/index.qmd": {
+    "index.html": "e2d22dee"
+  },
+  "5_publications/index.qmd": {
+    "index.html": "372f4920"
+  }
+}

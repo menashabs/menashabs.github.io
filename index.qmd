@@ -1,0 +1,69 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "0_images/image_menasha.jpg"
+  links:
+    - icon: link-45deg
+      text: LinkedIn
+      href: https://www.linkedin.com/in/menasha-senanayaka-49200b23b/
+    - icon: link-45deg
+      text: Github
+      href: https://github.com/menashabs
+    - icon: link-45deg
+      text: Email
+      href: "mailto:menashabrayani@gmail.com" 
+    - icon: link-45deg
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Menasha-Senanayaka
+    - icon: link-45deg
+      text: ORCID
+      href: https://orcid.org/0009-0002-6232-3035
+    - icon: link-45deg
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=4W2f5rgAAAAJ&hl=en
+---
+
+::: {#about-block}
+:::
+
+# Hello and welcome to my website!
+
+I am Menasha Senanayaka, who is a hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Passionate about doing research and innovation using statistical concepts. Interested in statistics, machine learning, data analytics, and data science. 
+
+On this website, I offer a glimpse into my knowledge by sharing some of my projects, publications, and blogs.
+
+About me:
+
+**Education**
+
+* BSc (Honours) in Statistics <br>
+Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
+Sri Lanka
+
+**Experience**
+
+* Teaching Assistant <br>
+Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
+Sri Lanka 
+* Statistical Consultant <br>
+Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br> 
+Sri Lanka 
+* Intern - Data Analyst <br>
+Retailer Analytics Team, Analytics Division, Dialog Axiata PLC <br>
+Sri Lanka
+
+**Honours and Awards**
+
+* IASSL Best Research Awards - 2023 <br>
+Organized by Institute of Applied Statistics Sri Lanka <br>
+Won a merit award for the undergraduate research project titled "Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach".
+
+**Publications**
+
+* Senanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. *Sri Lankan Journal of Applied Statistics*, 25(1), 34-48. <br>
+<a href="https://doi.org/10.4038/sljas.v25i1.8131" target="_blank">DOI: 10.4038/sljas.v25i1.8131</a><br>
+
+
+
+

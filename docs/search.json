@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello and welcome to my website!",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n  \n    \n     ResearchGate\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google Scholar\n  \n\n\n\n\nHello and welcome to my website!\nI am Menasha Senanayaka, who is a hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Passionate about doing research and innovation using statistical concepts. Interested in statistics, machine learning, data analytics, and data science.\nOn this website, I offer a glimpse into my knowledge by sharing some of my projects, publications, and blogs.\nAbout me:\nEducation\n\nBSc (Honours) in Statistics  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\n\nExperience\n\nTeaching Assistant  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nStatistical Consultant  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nIntern - Data Analyst  Retailer Analytics Team, Analytics Division, Dialog Axiata PLC  Sri Lanka\n\nHonours and Awards\n\nIASSL Best Research Awards - 2023  Organized by Institute of Applied Statistics Sri Lanka  Won a merit award for the undergraduate research project titled “Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach”.\n\nPublications\n\nSenanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. Sri Lankan Journal of Applied Statistics, 25(1), 34-48.  DOI: 10.4038/sljas.v25i1.8131"
+  },
+  {
+    "objectID": "1_projects/index.html",
+    "href": "1_projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "DSjobtracker\n\n\nDashboard | CRAN R Package | Code\nThis project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience.\n\nTime table dashboard for FAS, USJ\n\n\nCode\nThis project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny app was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view.\n\nTea Export Revenue Forecasting and Analyzing the Impact of COVID-19\n\n\nCode\nThis project is about modelling and forecasting the tea export revenue in Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts."
+  },
+  {
+    "objectID": "1_projects/index.html#academic-projects",
+    "href": "1_projects/index.html#academic-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "DSjobtracker\n\n\nDashboard | CRAN R Package | Code\nThis project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience.\n\nTime table dashboard for FAS, USJ\n\n\nCode\nThis project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny app was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view.\n\nTea Export Revenue Forecasting and Analyzing the Impact of COVID-19\n\n\nCode\nThis project is about modelling and forecasting the tea export revenue in Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts."
+  },
+  {
+    "objectID": "1_projects/index.html#the-history-of-the-war-of-the-ring",
+    "href": "1_projects/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Projects",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+  },
+  {
+    "objectID": "1_projects/index.html#collaborative-projects",
+    "href": "1_projects/index.html#collaborative-projects",
+    "title": "Projects",
+    "section": "Collaborative Projects",
+    "text": "Collaborative Projects\n\nSBPTD Project\n\nThis project was done with the Ministry of Education, Sri Lanka. A program was implemented by the Ministry in order to improve the teachers’ teaching and students’ learning. Data collection was done from a sample of schools. I was responsible in data entry and data analysis for this project."
+  },
+  {
+    "objectID": "2_publications/index.html",
+    "href": "2_publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Journal Articles\n\nSenanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. Sri Lankan Journal of Applied Statistics, 25(1), 34-48."
+  },
+  {
+    "objectID": "4_teaching/index.html",
+    "href": "4_teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "arXiv Preprint | Code\nCourse Code:"
+  },
+  {
+    "objectID": "4_teaching/index.html#the-languages-of-middle-earth",
+    "href": "4_teaching/index.html#the-languages-of-middle-earth",
+    "title": "Teaching",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "4_teaching/index.html#the-history-of-the-war-of-the-ring",
+    "href": "4_teaching/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Teaching",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+  },
+  {
+    "objectID": "#_cv/index.html",
+    "href": "#_cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "3_blog/index.html",
+    "href": "3_blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "3_blog/index.html#the-languages-of-middle-earth",
+    "href": "3_blog/index.html#the-languages-of-middle-earth",
+    "title": "Blog",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "3_blog/index.html#the-history-of-the-war-of-the-ring",
+    "href": "3_blog/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Blog",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+  },
+  {
+    "objectID": "4_teaching/index.html#section",
+    "href": "4_teaching/index.html#section",
+    "title": "Teaching",
+    "section": "",
+    "text": "arXiv Preprint | Code\nCourse Code:"
+  },
+  {
+    "objectID": "4_teaching/index.html#teaching-assistant-july-2023---april-2024",
+    "href": "4_teaching/index.html#teaching-assistant-july-2023---april-2024",
+    "title": "Teaching",
+    "section": "Teaching Assistant (July 2023 - April 2024)",
+    "text": "Teaching Assistant (July 2023 - April 2024)\n\nConducted tutorial classes and computer practical sessions for the following course units: \n\nSTA 113 2.0 Descriptive Statistics\nSTA 114 2.0 Probability and Distribution Theory I\nSTA 124 2.0 Data Analysis I\nSTA 125 1.0 Statistical Communication\nSTA 215 2.0 Sampling Techniques\nSTA 226 1.0 Data Analysis II\nSTA 326 2.0 Programming and Data Analysis with R\nSTA 330 2.0 Data Analysis and Preparation of Reports\nSTA 499 2.0 Statistical Methods"
+  },
+  {
+    "objectID": "4_teaching/index.html#conducted-tutorial-classes-for-the-following-course-units",
+    "href": "4_teaching/index.html#conducted-tutorial-classes-for-the-following-course-units",
+    "title": "Teaching",
+    "section": "Conducted tutorial classes for the following course units: ",
+    "text": "Conducted tutorial classes for the following course units:"
+  },
+  {
+    "objectID": "1_projects/index.html#statistical-consultancy-projects",
+    "href": "1_projects/index.html#statistical-consultancy-projects",
+    "title": "Projects",
+    "section": "Statistical Consultancy Projects",
+    "text": "Statistical Consultancy Projects\n\n\nThe project from a client from the Department of Food Science and Technology, Faculty of Applied Sciences, University of Sri Jayewardenepura. Consulted the client on the descriptive analysis of data, data modeling and model fitting and interpretation of the statistical outputs. Created and delivered an R function for the needed statistical data analysis. Providing interpretations for the outputs taken and delivered to the client along with the reasons."
+  },
+  {
+    "objectID": "3_workshops/index.html",
+    "href": "3_workshops/index.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "The project was done in collaboration with Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura and MAS Linea Aqua, Hanwella. The audience was the workers who don’t have a statistics knowledge and the purpose of this workshop was to provide an idea about the importance of using statistical techniques to solve business problems. \nTasks completed: \n\nCreated the course outline.\nCreated the course content.\nCreated the teaching materials.\nConducted the teaching sessions."
+  },
+  {
+    "objectID": "3_workshops/index.html#analytical-thinking-enhancement-workshop",
+    "href": "3_workshops/index.html#analytical-thinking-enhancement-workshop",
+    "title": "Workshops",
+    "section": "",
+    "text": "The project was done in collaboration with Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura and MAS Linea Aqua, Hanwella. The audience was the workers who don’t have a statistics knowledge and the purpose of this workshop was to provide an idea about the importance of using statistical techniques to solve business problems. \nTasks completed: \n\nCreated the course outline.\nCreated the course content.\nCreated the teaching materials.\nConducted the teaching sessions."
+  },
+  {
+    "objectID": "3_workshops/index.html#popularizing-statistics-subject-among-school-children",
+    "href": "3_workshops/index.html#popularizing-statistics-subject-among-school-children",
+    "title": "Workshops",
+    "section": "Popularizing statistics subject among school children",
+    "text": "Popularizing statistics subject among school children\n\nThe project was done in collaboration with Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura and Musaeus College, Colombo. A stall was created to display the importance of learning statistics by displaying some projects."
+  },
+  {
+    "objectID": "5_publications/index.html",
+    "href": "5_publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Journal Articles\n\nSenanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. Sri Lankan Journal of Applied Statistics, 25(1), 34-48.  DOI: 10.4038/sljas.v25i1.8131"
+  }
+]

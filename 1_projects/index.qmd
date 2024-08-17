@@ -1,0 +1,45 @@
+---
+title: Projects
+---
+
+## Academic Projects
+
+* DSjobtracker
+
+![](image_dsjobtracker.jpg)
+
+<a href="https://thiyangt.github.io/dsjobtraker_dashboard_mc/#overview" target="_blank">Dashboard</a> | <a href="https://cran.r-project.org/web/packages/DSjobtracker/index.html" target="_blank">CRAN R Package</a> | <a href="https://github.com/thiyangt/dsjobtraker_dashboard_mc" target="_blank">Code</a><br>
+
+This project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience.
+
+* Time table dashboard for FAS, USJ
+
+![](image_timetable.jpg)
+
+<a href="https://github.com/menashabs/FAS_2nd_Semester_Timetable_Visualization" target="_blank">Code</a><br>
+
+This project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny app was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view. 
+
+* Tea Export Revenue Forecasting and Analyzing the Impact of COVID-19 
+
+![](image_teaexportrevenue.png)
+
+<a href="https://github.com/menashabs/TeaExportRevenue_Analysis" target="_blank">Code</a><br>
+
+This project is about modelling and forecasting the tea export revenue in Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts. 
+
+----
+
+## Statistical Consultancy Projects
+
+* 
+* The project from a client from the Department of Food Science and Technology, Faculty of Applied Sciences, University of Sri Jayewardenepura. Consulted the client on the descriptive analysis of data, data modeling and model fitting and interpretation of the statistical outputs. Created and delivered an R function for the needed statistical data analysis. Providing interpretations for the outputs taken and delivered to the client along with the reasons.
+
+----
+
+## Collaborative Projects
+
+* SBPTD Project 
+
+This project was done with the Ministry of Education, Sri Lanka. A program was implemented by the Ministry in order to improve the teachers' teaching and students' learning. Data collection was done from a sample of schools. I was responsible in data entry and data analysis for this project. 
+

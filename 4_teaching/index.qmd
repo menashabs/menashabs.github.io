@@ -1,0 +1,25 @@
+---
+title: Teaching
+---
+
+
+
+----
+
+## Teaching Assistant (July 2023 - April 2024)
+
+![](image_teaching_assistant.jpg)
+
+Conducted **tutorial classes and computer practical sessions** for the following course units: <br>
+
+* STA 113 2.0 Descriptive Statistics
+* STA 114 2.0 Probability and Distribution Theory I
+* STA 124 2.0 Data Analysis I
+* STA 125 1.0 Statistical Communication
+* STA 215 2.0 Sampling Techniques
+* STA 226 1.0 Data Analysis II
+* STA 326 2.0 Programming and Data Analysis with R
+* STA 330 2.0 Data Analysis and Preparation of Reports
+* STA 499 2.0 Statistical Methods
+
+
