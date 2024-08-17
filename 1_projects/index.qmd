@@ -4,7 +4,7 @@ title: Projects
 
 ## Academic Projects
 
-* DSjobtracker
+* **DSjobtracker**
 
 ![](image_dsjobtracker.jpg)
 
@@ -12,7 +12,7 @@ title: Projects
 
 This project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience.
 
-* Time table dashboard for FAS, USJ
+* **Time table dashboard for FAS, USJ**
 
 ![](image_timetable.jpg)
 
@@ -20,7 +20,7 @@ This project is about data science jobs. The R flexdashboard was created using t
 
 This project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny app was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view. 
 
-* Tea Export Revenue Forecasting and Analyzing the Impact of COVID-19 
+* **Tea Export Revenue Forecasting and Analyzing the Impact of COVID-19** 
 
 ![](image_teaexportrevenue.png)
 
@@ -28,7 +28,7 @@ This project is about visualizing the time table of the Faculty of Applied Scien
 
 This project is about modelling and forecasting the tea export revenue in Sri Lanka. The data set was collected from the Central Bank of Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts. 
 
-* Myth analysis about mosquito bites and HIV/AIDS 
+* **Myth analysis about mosquito bites and HIV/AIDS** 
 
 ![](image_mythanalysis.jpg)
 
