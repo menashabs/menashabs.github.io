@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Hello and welcome to my website!",
     "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n  \n    \n     ResearchGate\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google Scholar\n  \n\n\n\n\nHello and welcome to my website!\nI am Menasha Senanayaka, who is a hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Passionate about doing research and innovation using statistical concepts. Interested in statistics, machine learning, data analytics, and data science.\nOn this website, I offer a glimpse into my knowledge by sharing some of my work.\nAbout me:\nEducation\n\nBSc (Honours) in Statistics  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\n\nExperience\n\nTeaching Assistant  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nStatistical Consultant  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nIntern - Data Analyst  Retailer Analytics Team, Analytics Division, Dialog Axiata PLC  Sri Lanka\n\nHonours and Awards\n\nIASSL Best Research Awards - 2023  Organized by Institute of Applied Statistics Sri Lanka  Won a merit award for the undergraduate research project titled “Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach”.\n\nPublications\n\nSenanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. Sri Lankan Journal of Applied Statistics, 25(1), 34-48.  DOI: 10.4038/sljas.v25i1.8131"
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n  \n    \n     ResearchGate\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google Scholar"
   },
   {
     "objectID": "1_projects/index.html",
     "href": "1_projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "DSjobtracker\n\n\nDashboard | CRAN R Package | Code\nThis project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience.\n\nTime table dashboard for FAS, USJ\n\n\nCode\nThis project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny app was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view.\n\nTea Export Revenue Forecasting and Analyzing the Impact of COVID-19\n\n\nCode\nThis project is about modelling and forecasting the tea export revenue in Sri Lanka. The data set was collected from the Central Bank of Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts.\n\nMyth analysis about mosquito bites and HIV/AIDS\n\n\nCode\nThis project investigated how the knowledge regarding the myth of HIV/AIDS, “People can get HIV virus from mosquito bites” varies on ever-married women’s socio-demographic characteristics. This study is based on Sri Lanka Demographic and Health survey (DHS) in 2016 conducted by the Department of Census and Statistics (DCS). A logistic regression model was fitted based on the analysis."
+    "text": "DSjobtracker\n\n\nDashboard | CRAN R Package | Code\nThis project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience. This project was done under the guidance of Dr. Thiyanga Talagala  who is a Senior Lecturer at the Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura.\n\nTime table dashboard for FAS, USJ\n\n\nCode\nThis project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny app was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view. This project was done under the guidance of Dr. Thiyanga Talagala  who is a Senior Lecturer at the Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura.\n\nTea Export Revenue Forecasting and Analyzing the Impact of COVID-19\n\n\nCode\nThis project is about modelling and forecasting the tea export revenue in Sri Lanka. The data set was collected from the Central Bank of Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts.\n\nMyth analysis about mosquito bites and HIV/AIDS\n\n\nCode\nThis project investigated how the knowledge regarding the myth of HIV/AIDS, “People can get HIV virus from mosquito bites” varies on ever-married women’s socio-demographic characteristics. This study is based on Sri Lanka Demographic and Health survey (DHS) in 2016 conducted by the Department of Census and Statistics (DCS). A logistic regression model was fitted based on the analysis."
   },
   {
     "objectID": "1_projects/index.html#academic-projects",
     "href": "1_projects/index.html#academic-projects",
     "title": "Projects",
     "section": "",
-    "text": "DSjobtracker\n\n\nDashboard | CRAN R Package | Code\nThis project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience.\n\nTime table dashboard for FAS, USJ\n\n\nCode\nThis project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny app was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view.\n\nTea Export Revenue Forecasting and Analyzing the Impact of COVID-19\n\n\nCode\nThis project is about modelling and forecasting the tea export revenue in Sri Lanka. The data set was collected from the Central Bank of Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts.\n\nMyth analysis about mosquito bites and HIV/AIDS\n\n\nCode\nThis project investigated how the knowledge regarding the myth of HIV/AIDS, “People can get HIV virus from mosquito bites” varies on ever-married women’s socio-demographic characteristics. This study is based on Sri Lanka Demographic and Health survey (DHS) in 2016 conducted by the Department of Census and Statistics (DCS). A logistic regression model was fitted based on the analysis."
+    "text": "DSjobtracker\n\n\nDashboard | CRAN R Package | Code\nThis project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience. This project was done under the guidance of Dr. Thiyanga Talagala  who is a Senior Lecturer at the Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura.\n\nTime table dashboard for FAS, USJ\n\n\nCode\nThis project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny app was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view. This project was done under the guidance of Dr. Thiyanga Talagala  who is a Senior Lecturer at the Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura.\n\nTea Export Revenue Forecasting and Analyzing the Impact of COVID-19\n\n\nCode\nThis project is about modelling and forecasting the tea export revenue in Sri Lanka. The data set was collected from the Central Bank of Sri Lanka. The impact of COVID-19 on Sri Lankan tea export revenue was assessed. Time series analysis was done under two approaches and a SARIMA model was used to generate forecasts.\n\nMyth analysis about mosquito bites and HIV/AIDS\n\n\nCode\nThis project investigated how the knowledge regarding the myth of HIV/AIDS, “People can get HIV virus from mosquito bites” varies on ever-married women’s socio-demographic characteristics. This study is based on Sri Lanka Demographic and Health survey (DHS) in 2016 conducted by the Department of Census and Statistics (DCS). A logistic regression model was fitted based on the analysis."
   },
   {
     "objectID": "1_projects/index.html#the-history-of-the-war-of-the-ring",
@@ -166,5 +166,33 @@
     "title": "Blog",
     "section": "Random Topics",
     "text": "Random Topics\nWhat are Candlestick Charts?\n\n\n\nREAD ARTICLE HERE"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hello and welcome to my website!",
+    "section": "Education",
+    "text": "Education\n\nBSc (Honours) in Statistics | January 2019 - June 2023  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hello and welcome to my website!",
+    "section": "Experience",
+    "text": "Experience\n\nAssistant Lecturer | August 2024 - Present  Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nTeaching Assistant | July 2023 - April 2024  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nStatistical Consultant | January 2023 - April 2024  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nIntern - Data Analyst | June 2022 - December 2022  Retailer Analytics Team, Analytics Division, Dialog Axiata PLC  Sri Lanka"
+  },
+  {
+    "objectID": "index.html#honours-and-awards",
+    "href": "index.html#honours-and-awards",
+    "title": "Hello and welcome to my website!",
+    "section": "Honours and Awards",
+    "text": "Honours and Awards\n\nIASSL Best Research Awards - 2023  Organized by Institute of Applied Statistics Sri Lanka  Won a merit award for the undergraduate research project titled “Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach”."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Hello and welcome to my website!",
+    "section": "Publications",
+    "text": "Publications\n\nSenanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. Sri Lankan Journal of Applied Statistics, 25(1), 34-48.  DOI: 10.4038/sljas.v25i1.8131"
   }
 ]

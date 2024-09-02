@@ -29,41 +29,46 @@ about:
 
 # Hello and welcome to my website!
 
-I am Menasha Senanayaka, who is a hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Passionate about doing research and innovation using statistical concepts. Interested in statistics, machine learning, data analytics, and data science. 
+I am Menasha Senanayaka, who is currently working as an Assistant Lecturer. I am a hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Passionate about doing research and innovation using statistical concepts. Interested in statistics, machine learning, data analytics, and data science. 
 
-On this website, I offer a glimpse into my knowledge by sharing some of my work.
+On this website, I offer a glimpse into my knowledge by sharing some of my work which includes <a href="https://menashabs.github.io/1_projects/">Projects</a>, 
+<a href="https://menashabs.github.io/2_blog/" target="_blank">Blog</a>, 
+<a href="https://menashabs.github.io/3_workshops/" target="_blank">Workshops</a> and
+<a href="https://menashabs.github.io/4_teaching/" target="_blank">Teaching</a>.
 
 About me:
 
-**Education**
+## **Education**
 
-* BSc (Honours) in Statistics <br>
+* **BSc (Honours) in Statistics | January 2019 - June 2023** <br>
 Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
 Sri Lanka
 
-**Experience**
+## **Experience**
 
-* Teaching Assistant <br>
+* **Assistant Lecturer | August 2024 - Present** <br>
+Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
+Sri Lanka 
+* **Teaching Assistant | July 2023 - April 2024** <br>
 Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
 Sri Lanka 
-* Statistical Consultant <br>
+* **Statistical Consultant | January 2023 - April 2024** <br>
 Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br> 
 Sri Lanka 
-* Intern - Data Analyst <br>
+* **Intern - Data Analyst | June 2022 - December 2022** <br>
 Retailer Analytics Team, Analytics Division, Dialog Axiata PLC <br>
 Sri Lanka
 
-**Honours and Awards**
+## **Honours and Awards**
 
-* IASSL Best Research Awards - 2023 <br>
+* **IASSL Best Research Awards - 2023** <br>
 Organized by Institute of Applied Statistics Sri Lanka <br>
 Won a merit award for the undergraduate research project titled "Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach".
 
-**Publications**
+## **Publications**
 
 * Senanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. *Sri Lankan Journal of Applied Statistics*, 25(1), 34-48. <br>
 <a href="https://doi.org/10.4038/sljas.v25i1.8131" target="_blank">DOI: 10.4038/sljas.v25i1.8131</a><br>
-
 
 
 
