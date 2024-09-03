@@ -3,13 +3,12 @@
 website:
   title: "Menasha Senanayaka"
   image: 0_images/image_menasha.jpg
-  
   favicon: 0_images/image_favicon.jpg
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: 0_images/image_favicon.jpg
+    logo: /0_images/image_favicon.jpg
     
     # your sub-pages
     left:
