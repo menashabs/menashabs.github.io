@@ -14,7 +14,7 @@ This project is about data science jobs. The R flexdashboard was created using t
 
 * **Time table dashboard for FAS, USJ**
 
-![](image_timetable.jpg)
+![](image_timetable.png)
 
 <a href="https://github.com/menashabs/FAS_2nd_Semester_Timetable_Visualization" target="_blank">Code</a> | <a href="https://drive.google.com/file/d/1MRinbyd_QaJyXqcoUwE0MwYNWq6mFlB7/view?usp=sharing" target="_blank">Video on how the dashboard works</a><br>
 
