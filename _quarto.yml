@@ -8,7 +8,6 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /0_images/image_favicon.png
     
     # your sub-pages
     left:
@@ -68,5 +67,3 @@ format:
     fig-cap-location: margin
     reference-location: margin
     footnotes-hover: true
-
-
