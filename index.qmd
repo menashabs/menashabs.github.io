@@ -36,6 +36,8 @@ On this website, I offer a glimpse into my knowledge by sharing some of my work 
 <a href="https://menashabs.github.io/3_workshops/" target="_blank">Workshops</a> and
 <a href="https://menashabs.github.io/4_teaching/" target="_blank">Teaching</a>.
 
+Feel free to <a href="https://menashabs.github.io/5_contact/">contact</a> me for any inquiry, comments or statistical consultancy. 
+
 About me:
 
 ## **Education**
@@ -69,6 +71,4 @@ Won a merit award for the undergraduate research project titled "Effectiveness o
 
 * Senanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. *Sri Lankan Journal of Applied Statistics*, 25(1), 34-48. <br>
 <a href="https://doi.org/10.4038/sljas.v25i1.8131" target="_blank">DOI: 10.4038/sljas.v25i1.8131</a><br>
-
-
 
