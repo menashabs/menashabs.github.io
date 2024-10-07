@@ -19,7 +19,8 @@ website:
         href: 3_workshops/index.qmd
       - text: "Teaching"
         href: 4_teaching/index.qmd
-        
+      - text: "Contact"
+        href: 5_contact/index.qmd
     
     # your social media handles
     right:
@@ -28,7 +29,6 @@ website:
       - icon: envelope
         aria-label: email
         href: "mailto:menashabrayani@gmail.com" 
-        
 
   search: 
     location: navbar
@@ -40,7 +40,6 @@ website:
       <span class="faux-block">&#169; 2024 : N. I. Menasha B. Senanayaka </span>
     right: |
       <span class="faux-block"></span>
-
 
 project:
   type: website
@@ -67,3 +66,4 @@ format:
     fig-cap-location: margin
     reference-location: margin
     footnotes-hover: true
+

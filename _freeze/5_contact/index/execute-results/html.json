@@ -1,0 +1,14 @@
+{
+  "hash": "b648ab91fe2ecd90d351ebd2d9678ad2",
+  "result": {
+    "markdown": "---\ntitle: Contact\n---\n\n\n# Contact Us\n\nI'd love to hear from you! \n\nFeel free to reach out to me using the following contact form.\n\n## Contact Form\n\nAlternatively, you can use the form below to send us a message directly.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(shiny)\n\nui <- fluidPage(\n  textInput(\"name\", \"Your Name\", \"\"),\n  textInput(\"email\", \"Your Email\", \"\"),\n  textAreaInput(\"message\", \"Your Message\", \"\"),\n  actionButton(\"send\", \"Send Message\"),\n  textOutput(\"confirmation\"))\n\nserver <- function(input, output, session) {\n  observeEvent(input$send, {\n    if (input$name != \"\" && input$email != \"\" && input$message != \"\") {\n      output$confirmation <- renderText(\"Thank you for your message! I'll get back to you soon.\")\n    } else {\n      output$confirmation <- renderText(\"Please fill out all fields before sending.\")\n    }\n  })\n}\n\nshinyApp(ui, server)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\nPhantomJS not found. You can install it with webshot::install_phantomjs(). If it is installed, please make sure the phantomjs executable can be found via the PATH variable.\n```\n:::\n\n::: {.cell-output-display}\n`<div style=\"width: 100% ; height: 400px ; text-align: center; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;\" class=\"muted well\">Shiny applications not supported in static R Markdown documents</div>`{=html}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
