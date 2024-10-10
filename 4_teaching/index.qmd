@@ -4,21 +4,27 @@ title: Teaching
 
 ## Assistant Lecturer (August 2024 - Present)
 
+Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura
+
 #### Academic Year 2024/25 | Semester II
 
 **Applied Mathematics Courses:**
 
-* **AMT 325 2.0 Regression Analysis** | <a href="https://amt325withmenasha.netlify.app/" target="_blank">View Course Website</a>
+* **AMT 325 2.0 Regression Analysis**
 
-* **AMT 377 2.0 Computational Statistics** | <a href="https://amt377withmenasha.netlify.app/" target="_blank">View Course Website</a>
+* **AMT 377 2.0 Computational Statistics**
 
 **Management Sciences Courses: **
 
-* **MAN 128 1.0 Introduction to Statistics** | <a href="https://man128withmenasha.netlify.app/" target="_blank">View Course Website</a>
+* **MAN 128 1.0 Introduction to Statistics**
+
+* **MAN 227 2.0 Statistical Quality Control and Industrial Statistics**
 
 ----
 
 ## Teaching Assistant (July 2023 - April 2024)
+
+Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura
 
 ![](image_teaching_assistant.jpg)
 
@@ -32,5 +38,4 @@ Conducted **tutorial classes and computer practical sessions** for the following
 * STA 326 2.0 Programming and Data Analysis with R
 * STA 330 2.0 Data Analysis and Preparation of Reports
 * STA 499 2.0 Statistical Methods
-
 
