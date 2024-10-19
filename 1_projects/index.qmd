@@ -4,6 +4,14 @@ title: Projects
 
 ## Academic Projects
 
+* **Forecaster: Time Series Forecasting App**
+
+![](image_forecaster.png)
+
+<a href="https://menashasenanayaka.shinyapps.io/forecaster_shinyapp/">Shiny App</a> | <a href="https://github.com/menashabs/Forecaster_ShinyApp">Code</a> 
+
+This project was done with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model.
+
 * **DSjobtracker**
 
 ![](image_dsjobtracker.jpg)
@@ -51,4 +59,5 @@ This project investigated how the knowledge regarding the myth of HIV/AIDS, “P
 ## Collaborative Projects
 
 * SBPTD project was done with the Ministry of Education, Sri Lanka. A program was implemented by the Ministry in order to improve the teachers' teaching and students' learning. Data collection was done from a sample of schools. I was responsible in data entry and data analysis for this project. 
+
 
