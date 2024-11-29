@@ -29,7 +29,7 @@ about:
 
 # Hello and welcome to my website!
 
-I am Menasha Senanayaka, who is currently working as an Assistant Lecturer. I am a hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Passionate about doing research and innovation using statistical concepts. Interested in statistics, machine learning, data analytics, and data science. 
+I am Menasha Senanayaka, who is currently working as an Assistant Lecturer. I am a hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Passionate about doing research and innovation using statistical concepts. Interested in statistics, machine learning, data analytics, and data science. I am eager to help researchers and academics for their projects by providing statistical consultancy. 
 
 On this website, I offer a glimpse into my knowledge by sharing some of my work which includes <a href="https://menashabs.github.io/1_projects/">Projects</a>, 
 <a href="https://menashabs.github.io/2_blog/" target="_blank">Blog</a>, 
@@ -48,6 +48,9 @@ Sri Lanka
 
 ## **Experience**
 
+* **Lecturer (Resource Person) | November 2024 - Present** <br>
+Institute of Applied Statistics Sri Lanka (IASSL) <br>
+Sri Lanka 
 * **Assistant Lecturer | August 2024 - Present** <br>
 Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
 Sri Lanka 

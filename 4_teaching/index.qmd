@@ -6,9 +6,11 @@ title: Teaching
 
 Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura
 
-#### Academic Year 2024/25 | Semester II
+#### Academic Year: 2024/25 | Semester: II
 
 **Applied Mathematics Courses:**
+
+![](image_assistant_lecturer_1_1.jpg)
 
 * **AMT 325 2.0 Regression Analysis**
 
