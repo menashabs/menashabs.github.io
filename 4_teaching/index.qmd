@@ -2,11 +2,21 @@
 title: Teaching
 ---
 
+## Lecturer (Resource Person) (November 2024 - Present)
+
+Institute of Applied Statistics Sri Lanka (IASSL)
+
+#### Certificate in Applied Statistics
+
+* **CAS 105 1.0 Introduction to Statistical Modeling**
+
+----
+
 ## Assistant Lecturer (August 2024 - Present)
 
-Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura
+**Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura**
 
-#### Academic Year: 2024/25 | Semester: II
+#### Academic Year 2024/25 | Semester II
 
 **Applied Mathematics Courses:**
 
@@ -24,7 +34,7 @@ Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewa
 
 ## Teaching Assistant (July 2023 - April 2024)
 
-Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura
+**Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura**
 
 ![](image_teaching_assistant.jpg)
 
