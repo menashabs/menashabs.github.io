@@ -22,13 +22,15 @@ title: Teaching
 
 ![](image_assistant_lecturer_1_1.jpg)
 
-* **AMT 325 2.0 Regression Analysis**
+* **AMT 325 2.0 Regression Analysis** | <a href="https://amt325withmenasha.netlify.app/" target="_blank">Course Website</a><br>
 
-* **AMT 377 2.0 Computational Statistics**
+* **AMT 377 2.0 Computational Statistics** | <a href="https://amt377withmenasha.netlify.app/" target="_blank">Course Website</a><br>
 
 **Management Sciences Courses: **
 
-* **MAN 128 1.0 Introduction to Statistics**
+![](image_assistant_lecturer_1_2.jpg)
+
+* **MAN 128 1.0 Introduction to Statistics** | <a href="https://man128withmenasha.netlify.app/" target="_blank">Course Website</a><br>
 
 ----
 
@@ -48,4 +50,5 @@ Conducted **tutorial classes and computer practical sessions** for the following
 * STA 326 2.0 Programming and Data Analysis with R
 * STA 330 2.0 Data Analysis and Preparation of Reports
 * STA 499 2.0 Statistical Methods
+
 
