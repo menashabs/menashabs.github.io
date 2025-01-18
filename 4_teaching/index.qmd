@@ -2,16 +2,6 @@
 title: Teaching
 ---
 
-## Lecturer (Resource Person) (November 2024 - Present)
-
-**Institute of Applied Statistics Sri Lanka (IASSL)**
-
-#### Certificate in Applied Statistics
-
-* **CAS 105 1.0 Introduction to Statistical Modeling**
-
-----
-
 ## Assistant Lecturer (August 2024 - Present)
 
 **Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura**
@@ -22,15 +12,25 @@ title: Teaching
 
 ![](image_assistant_lecturer_1_1.jpg)
 
-* **AMT 325 2.0 Regression Analysis** | <a href="https://amt325withmenasha.netlify.app/" target="_blank">Course Website</a><br>
+* **AMT 325 2.0 Regression Analysis** 
 
-* **AMT 377 2.0 Computational Statistics** | <a href="https://amt377withmenasha.netlify.app/" target="_blank">Course Website</a><br>
+* **AMT 377 2.0 Computational Statistics** 
 
 **Management Sciences Courses: **
 
 ![](image_assistant_lecturer_1_2.jpg)
 
-* **MAN 128 1.0 Introduction to Statistics** | <a href="https://man128withmenasha.netlify.app/" target="_blank">Course Website</a><br>
+* **MAN 128 1.0 Introduction to Statistics** 
+
+----
+
+## Lecturer (Resource Person) (November 2024 - April 2025)
+
+**Institute of Applied Statistics Sri Lanka (IASSL)**
+
+#### Certificate in Applied Statistics
+
+* **CAS 105 1.0 Introduction to Statistical Modeling**
 
 ----
 
