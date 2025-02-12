@@ -22,9 +22,14 @@ title: Teaching
 
 * **MAN 128 1.0 Introduction to Statistics** 
 
+**Final Year Undergraduate Research Projects:**
+
+* **Co-supervising one final year undergraduate research project of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)** 
+* **Providing statistical support for two final year undergraduate research projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)** 
+
 ----
 
-## Lecturer (Resource Person) (November 2024 - April 2025)
+## Visiting Lecturer (November 2024 - Present)
 
 **Institute of Applied Statistics Sri Lanka (IASSL)**
 
@@ -37,6 +42,8 @@ title: Teaching
 ## Teaching Assistant (July 2023 - April 2024)
 
 **Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura**
+
+#### Academic Year 2023/24 | Semester I and II
 
 ![](image_teaching_assistant.jpg)
 
