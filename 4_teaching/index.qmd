@@ -6,26 +6,34 @@ title: Teaching
 
 **Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura**
 
+#### Academic Year 2025/26 | Semester I
+
+**Applied Mathematics Courses:** <br>
+* **AMT 112 2.0 Mathematical Statistics I** <br>
+* **AMT 212 2.0 Mathematical Statistics II** 
+
+![](image_assistant_lecturer_1_3.jpg)
+
+**Management Sciences Courses:** <br>
+* **MAN 103 1.0 Methods of Operational Research**
+
 #### Academic Year 2024/25 | Semester II
 
-**Applied Mathematics Courses:**
+**Applied Mathematics Courses:** <br>
+* **AMT 325 2.0 Regression Analysis** <br>
+* **AMT 377 2.0 Computational Statistics** 
 
 ![](image_assistant_lecturer_1_1.jpg)
 
-* **AMT 325 2.0 Regression Analysis** 
-
-* **AMT 377 2.0 Computational Statistics** 
-
-**Management Sciences Courses: **
+**Management Sciences Courses:** <br>
+* **MAN 128 1.0 Introduction to Statistics**
 
 ![](image_assistant_lecturer_1_2.jpg)
 
-* **MAN 128 1.0 Introduction to Statistics** 
-
 **Final Year Undergraduate Research Projects:**
 
-* Co-supervising one final year undergraduate research project of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)
-* Providing statistical support for two final year undergraduate research projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)
+* Co-supervising final year undergraduate research projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)
+* Providing statistical support for the final year undergraduate industry collaboration projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)
 
 ----
 
@@ -47,7 +55,7 @@ title: Teaching
 
 ![](image_teaching_assistant.jpg)
 
-Conducted **tutorial classes and computer practical sessions** for the following course units: <br>
+Conducted **tutorial classes and computer practical sessions** for the following course units:
 
 * STA 113 2.0 Descriptive Statistics
 * STA 114 2.0 Probability and Distribution Theory I
@@ -57,5 +65,3 @@ Conducted **tutorial classes and computer practical sessions** for the following
 * STA 326 2.0 Programming and Data Analysis with R
 * STA 330 2.0 Data Analysis and Preparation of Reports
 * STA 499 2.0 Statistical Methods
-
-
