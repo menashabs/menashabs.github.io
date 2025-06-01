@@ -64,16 +64,16 @@ Sri Lanka
 Retailer Analytics Team, Analytics Division, Dialog Axiata PLC <br>
 Sri Lanka
 
+## **Publications**
+
+* Senanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. *Sri Lankan Journal of Applied Statistics*, 25(1), 34-48. <br>
+<a href="https://doi.org/10.4038/sljas.v25i1.8131" target="_blank">DOI: 10.4038/sljas.v25i1.8131</a><br>
+
 ## **Honours and Awards**
 
 * **IASSL Best Research Awards - 2023** <br>
 Organized by Institute of Applied Statistics Sri Lanka <br>
 Won a merit award for the undergraduate research project titled "Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach".
-
-## **Publications**
-
-* Senanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. *Sri Lankan Journal of Applied Statistics*, 25(1), 34-48. <br>
-<a href="https://doi.org/10.4038/sljas.v25i1.8131" target="_blank">DOI: 10.4038/sljas.v25i1.8131</a><br>
 
 ## **Memberships**
 
@@ -81,10 +81,10 @@ General member - Life (MIASSL) at the Institute of Applied Statistics Sri Lanka 
 
 ## **Volunteering**
 
-* Member and Editorial Assistant <br>
+* **Member and Editorial Assistant** <br>
 Editorial board for the year 2025 <br>
 Institute of Applied Statistics Sri Lanka (IASSL) and Sri Lanka Journal of Applied Statistics (SLJAS)
-* Member <br>
+* **Member** <br>
 Academic training committee for the year 2025 <br> 
 Institute of Applied Statistics Sri Lanka (IASSL)
 
