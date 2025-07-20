@@ -22,7 +22,7 @@ title: Teaching
 #### Academic Year 2024/25 | Semester II
 
 **Applied Mathematics Courses:** <br>
-* **AMT 325 2.0 Regression Analysis** <br> | [Course Outline](course_outlines/AMT_325_Course_Outline.pdf)
+* **AMT 325 2.0 Regression Analysis** | [Course Outline](course_outlines/AMT_325_Course_Outline.pdf) <br>
 * **AMT 377 2.0 Computational Statistics** | [Course Outline](course_outlines/AMT_377_Course_Outline.pdf)
 
 ![](image_assistant_lecturer_1_1.jpg)
