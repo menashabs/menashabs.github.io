@@ -9,26 +9,26 @@ title: Teaching
 #### Academic Year 2025/26 | Semester I
 
 **Applied Mathematics Courses:** <br>
-* **AMT 112 2.0 Mathematical Statistics I** | [View Course Outline](course_outlines/AMT_112_Course_Outline.pdf) <br>
-* **AMT 212 2.0 Mathematical Statistics II** | [View Course Outline](course_outlines/AMT_212_Course_Outline.pdf) 
+* **AMT 112 2.0 Mathematical Statistics I** | [Course Outline](course_outlines/AMT_112_Course_Outline.pdf) <br>
+* **AMT 212 2.0 Mathematical Statistics II** | [Course Outline](course_outlines/AMT_212_Course_Outline.pdf) 
 
 ![](image_assistant_lecturer_1_3.jpg)
 
 **Management Sciences Courses:** <br>
-* **MAN 103 1.0 Methods of Operational Research** | [View Course Outline](course_outlines/MAN_103_Course_Outline.pdf)
+* **MAN 103 1.0 Methods of Operational Research** | [Course Outline](course_outlines/MAN_103_Course_Outline.pdf)
 
 ![](image_assistant_lecturer_1_4.jpg)
 
 #### Academic Year 2024/25 | Semester II
 
 **Applied Mathematics Courses:** <br>
-* **AMT 325 2.0 Regression Analysis** <br> | [View Course Outline](course_outlines/AMT_325_Course_Outline.pdf)
-* **AMT 377 2.0 Computational Statistics** | [View Course Outline](course_outlines/AMT_377_Course_Outline.pdf)
+* **AMT 325 2.0 Regression Analysis** <br> | [Course Outline](course_outlines/AMT_325_Course_Outline.pdf)
+* **AMT 377 2.0 Computational Statistics** | [Course Outline](course_outlines/AMT_377_Course_Outline.pdf)
 
 ![](image_assistant_lecturer_1_1.jpg)
 
 **Management Sciences Courses:** <br>
-* **MAN 128 1.0 Introduction to Statistics** | [View Course Outline](course_outlines/MAN_128_Course_Outline.pdf)
+* **MAN 128 1.0 Introduction to Statistics** | [Course Outline](course_outlines/MAN_128_Course_Outline.pdf)
 
 ![](image_assistant_lecturer_1_2.jpg)
 
