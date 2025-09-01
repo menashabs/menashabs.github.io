@@ -29,7 +29,7 @@ about:
 
 # Hello and welcome to my website!
 
-I am Menasha Senanayaka, who is currently working as an Assistant Lecturer and a Visiting Lecturer. I am a hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Passionate about doing research and innovation using statistical concepts. Interested in statistics, machine learning, data analytics, econometrics and data science. I am eager to help researchers and academics for their projects by providing statistical consultancy. I am looking forward for my higher studies journey.
+I am Menasha Senanayaka, who is currently working as a Temporary Assistant Lecturer and a Visiting Lecturer. I am a hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Passionate about doing research and innovation using statistical concepts. Interested in statistics and data science. I am eager to help researchers and academics for their projects by providing statistical consultancy. I am looking forward for my higher studies journey.
 
 On this website, I offer a glimpse into my knowledge by sharing some of my work which includes <a href="https://menashabs.github.io/1_projects/">Projects</a>, 
 <a href="https://menashabs.github.io/2_blog/" target="_blank">Blog</a>, 
@@ -87,8 +87,13 @@ Institute of Applied Statistics Sri Lanka (IASSL) and Sri Lanka Journal of Appli
 * **Member** <br>
 Academic training committee for the year 2025 <br> 
 Institute of Applied Statistics Sri Lanka (IASSL)
+* **Editorial Assistant** <br>
+International Statistics Conference 2024 (ISC 2024) <br>
+Conference done in collaboration with Department of Statistics, University of Sri Jayewardenepura, Sri Lanka, Simon Fraser University, Canada and Institute of Applied Statistics Sri Lanka.
 
-
+## **Quote**
+*The best thing about being a statistician is that you get to play in everyone's backyard*
+*-John Tukey-*
 
 
 

@@ -32,10 +32,10 @@ title: Teaching
 
 ![](image_assistant_lecturer_1_2.jpg)
 
-**Final Year Undergraduate Research Projects:**
+* **Final Year Undergraduate Research Project Supervision:**
 
-* Co-supervising final year undergraduate research projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)
-* Providing statistical support for the final year undergraduate industry collaboration projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)
+* Co-supervised final year undergraduate research projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics) titled "Predicting the Impact of Tunnel Excavation on Groundwater Levels in Wells - A Machine Learning Approach"
+* Providing statistical guidance for the final year undergraduate research and industry collaboration projects.
 
 ----
 
@@ -46,6 +46,11 @@ title: Teaching
 #### Certificate in Applied Statistics
 
 * **CAS 105 1.0 Introduction to Statistical Modeling**
+
+* **Research Project Supervision:**
+
+* Supervised a Higher Diploma in Applied Statistics research projects titled "Predictive Model to
+Forecast Detection Probability: A Study in Air Surveillance Radars"
 
 ----
 
