@@ -46,7 +46,7 @@
     "href": "4_teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura\n\n\nApplied Mathematics Courses:  * AMT 112 2.0 Mathematical Statistics I | Course Outline  * AMT 212 2.0 Mathematical Statistics II | Course Outline\n\nManagement Sciences Courses:  * MAN 103 1.0 Methods of Operational Research | Course Outline\n\n\n\n\nApplied Mathematics Courses:  * AMT 325 2.0 Regression Analysis | Course Outline  * AMT 377 2.0 Computational Statistics | Course Outline\n\nManagement Sciences Courses:  * MAN 128 1.0 Introduction to Statistics | Course Outline\n\nFinal Year Undergraduate Research Projects:\n\nCo-supervising final year undergraduate research projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)\nProviding statistical support for the final year undergraduate industry collaboration projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)"
+    "text": "Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura\n\n\nApplied Mathematics Courses:  * AMT 112 2.0 Mathematical Statistics I | Course Outline  * AMT 212 2.0 Mathematical Statistics II | Course Outline\n\nManagement Sciences Courses:  * MAN 103 1.0 Methods of Operational Research | Course Outline\n\n\n\n\nApplied Mathematics Courses:  * AMT 325 2.0 Regression Analysis | Course Outline  * AMT 377 2.0 Computational Statistics | Course Outline\n\nManagement Sciences Courses:  * MAN 128 1.0 Introduction to Statistics | Course Outline\n\n\nFinal Year Undergraduate Research Project Supervision:\nCo-supervised final year undergraduate research projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics) titled “Predicting the Impact of Tunnel Excavation on Groundwater Levels in Wells - A Machine Learning Approach”\nProviding statistical guidance for the final year undergraduate research and industry collaboration projects."
   },
   {
     "objectID": "4_teaching/index.html#the-languages-of-middle-earth",
@@ -200,7 +200,7 @@
     "href": "4_teaching/index.html#assistant-lecturer-august-2024---present",
     "title": "Teaching",
     "section": "",
-    "text": "Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura\n\n\nApplied Mathematics Courses:  * AMT 112 2.0 Mathematical Statistics I | Course Outline  * AMT 212 2.0 Mathematical Statistics II | Course Outline\n\nManagement Sciences Courses:  * MAN 103 1.0 Methods of Operational Research | Course Outline\n\n\n\n\nApplied Mathematics Courses:  * AMT 325 2.0 Regression Analysis | Course Outline  * AMT 377 2.0 Computational Statistics | Course Outline\n\nManagement Sciences Courses:  * MAN 128 1.0 Introduction to Statistics | Course Outline\n\nFinal Year Undergraduate Research Projects:\n\nCo-supervising final year undergraduate research projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)\nProviding statistical support for the final year undergraduate industry collaboration projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics)"
+    "text": "Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura\n\n\nApplied Mathematics Courses:  * AMT 112 2.0 Mathematical Statistics I | Course Outline  * AMT 212 2.0 Mathematical Statistics II | Course Outline\n\nManagement Sciences Courses:  * MAN 103 1.0 Methods of Operational Research | Course Outline\n\n\n\n\nApplied Mathematics Courses:  * AMT 325 2.0 Regression Analysis | Course Outline  * AMT 377 2.0 Computational Statistics | Course Outline\n\nManagement Sciences Courses:  * MAN 128 1.0 Introduction to Statistics | Course Outline\n\n\nFinal Year Undergraduate Research Project Supervision:\nCo-supervised final year undergraduate research projects of the B.Sc. (Honours) in Applied Sciences (Applied Mathematics) titled “Predicting the Impact of Tunnel Excavation on Groundwater Levels in Wells - A Machine Learning Approach”\nProviding statistical guidance for the final year undergraduate research and industry collaboration projects."
   },
   {
     "objectID": "5_contact/index.html",
@@ -249,13 +249,20 @@
     "href": "4_teaching/index.html#visiting-lecturer-november-2024---present",
     "title": "Teaching",
     "section": "Visiting Lecturer (November 2024 - Present)",
-    "text": "Visiting Lecturer (November 2024 - Present)\nInstitute of Applied Statistics Sri Lanka (IASSL)\n\nCertificate in Applied Statistics\n\nCAS 105 1.0 Introduction to Statistical Modeling"
+    "text": "Visiting Lecturer (November 2024 - Present)\nInstitute of Applied Statistics Sri Lanka (IASSL)\n\nCertificate in Applied Statistics\n\nCAS 105 1.0 Introduction to Statistical Modeling\nResearch Project Supervision:\nSupervised a Higher Diploma in Applied Statistics research projects titled “Predictive Model to Forecast Detection Probability: A Study in Air Surveillance Radars”"
   },
   {
     "objectID": "index.html#volunteering",
     "href": "index.html#volunteering",
     "title": "Hello and welcome to my website!",
     "section": "Volunteering",
-    "text": "Volunteering\n\nMember and Editorial Assistant  Editorial board for the year 2025  Institute of Applied Statistics Sri Lanka (IASSL) and Sri Lanka Journal of Applied Statistics (SLJAS)\nMember  Academic training committee for the year 2025  Institute of Applied Statistics Sri Lanka (IASSL)"
+    "text": "Volunteering\n\nMember and Editorial Assistant  Editorial board for the year 2025  Institute of Applied Statistics Sri Lanka (IASSL) and Sri Lanka Journal of Applied Statistics (SLJAS)\nMember  Academic training committee for the year 2025  Institute of Applied Statistics Sri Lanka (IASSL)\nEditorial Assistant  International Statistics Conference 2024 (ISC 2024)  Conference done in collaboration with Department of Statistics, University of Sri Jayewardenepura, Sri Lanka, Simon Fraser University, Canada and Institute of Applied Statistics Sri Lanka."
+  },
+  {
+    "objectID": "index.html#quote",
+    "href": "index.html#quote",
+    "title": "Hello and welcome to my website!",
+    "section": "Quote",
+    "text": "Quote\nThe best thing about being a statistician is that you get to play in everyone’s backyard  -John Tukey-"
   }
 ]
