@@ -68,6 +68,8 @@ Sri Lanka
 
 * Senanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. *Sri Lankan Journal of Applied Statistics*, 25(1), 34-48. <br>
 <a href="https://doi.org/10.4038/sljas.v25i1.8131" target="_blank">DOI: 10.4038/sljas.v25i1.8131</a><br>
+* DSjobtracker: What Skills and Qualifications are Required for Data Science Related Jobs? <br>
+<a href="https://doi.org/10.32614/CRAN.package.DSjobtracker" target="_blank">DOI: https://doi.org/10.32614/CRAN.package.DSjobtracker</a><br>
 
 ## **Honours and Awards**
 
@@ -94,6 +96,4 @@ Conference done in collaboration with Department of Statistics, University of Sr
 ## **Quote**
 *The best thing about being a statistician is that you get to play in everyone's backyard* <br>
 *-John Tukey-*
-
-
 
