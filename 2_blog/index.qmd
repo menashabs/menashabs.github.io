@@ -4,6 +4,16 @@ title: Blog
 
 ## Statistics Topics
 
+**Understanding Correlation: Measures, Interpretations, and Why It Doesn’t Imply Causation**
+
+::: {layout-ncol=2}
+
+<a href="https://medium.com/@menashabrayani/understanding-correlation-measures-interpretations-and-why-it-doesnt-imply-causation-27b3dd4e3fb5" target="_blank">READ ARTICLE HERE</a><br>
+
+![](image_blog_s1_a4.jpg)
+
+:::
+
 **Choose Appropriate Parametric Tests and Non-parametric Tests in order to Gain Better Insights**
 
 ::: {layout-ncol=2}
@@ -47,3 +57,7 @@ title: Blog
 ![](image_blog_s2_a1.webp)
 
 :::
+
+
+
+
