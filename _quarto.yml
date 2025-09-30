@@ -13,12 +13,12 @@ website:
     left:
       - text: "Projects"
         href: 1_projects/index.qmd
-      - text: "Blog"
-        href: 2_blog/index.qmd
+      - text: "Experience"
+        href: 2_experience/index.qmd
       - text: "Workshops"
         href: 3_workshops/index.qmd
-      - text: "Teaching"
-        href: 4_teaching/index.qmd
+      - text: "Blog Posts"
+        href: 4_blogposts/index.qmd
       - text: "Contact"
         href: 5_contact/index.qmd
     

@@ -40,5 +40,14 @@
   },
   "5_contact/index.qmd": {
     "index.html": "2fdc991c"
+  },
+  "2_experience/index.qmd": {
+    "index.html": "ea98e3c7"
+  },
+  "4_workshops/index.qmd": {
+    "index.html": "f7beac14"
+  },
+  "4_blogposts/index.qmd": {
+    "index.html": "e83640e9"
   }
 }

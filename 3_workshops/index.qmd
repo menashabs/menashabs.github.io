@@ -4,9 +4,11 @@ title: Workshops
 
 ## Analytical Thinking Enhancement Workshop 
 
-![](image_masworkshop.jpg)
+![](image_masworkshop.jpg){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
+::: {style="text-align: justify;"}
 The project was done in collaboration with Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura and MAS Linea Aqua, Hanwella. The audience was the workers who don't have a statistics knowledge and the purpose of this workshop was to provide an idea about the importance of using statistical techniques to solve business problems. <br>
+:::
 
 Tasks completed: <br>
 
@@ -19,7 +21,9 @@ Tasks completed: <br>
 
 ## Popularizing statistics subject among school children
 
-![](image_musaeus.jpg)
+![](image_musaeus.jpg){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
+::: {style="text-align: justify;"}
 The project was done in collaboration with Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura and Musaeus College, Colombo. A stall was created to display the importance of learning statistics by displaying some projects. 
+:::
 
