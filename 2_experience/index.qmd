@@ -24,8 +24,10 @@ title: Experience
 
 #### Final Year Undergraduate Research Project Supervision
 
+::: {style="text-align: justify;"}
 * Co-supervised final year undergraduate research projects of the BSc (Honours) in Applied Sciences (Applied Mathematics) titled "Predicting the Impact of Tunnel Excavation on Groundwater Levels in Wells - A Machine Learning Approach".
 * Providing statistical guidance for the final year undergraduate research and industry collaboration projects.
+:::
 
 ![](image_usj_al_all.jpeg){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
@@ -41,8 +43,10 @@ title: Experience
 
 #### Research Project Supervision
 
+::: {style="text-align: justify;"}
 * Supervised a Higher Diploma in Applied Statistics research projects titled "Predictive Model to
 Forecast Detection Probability: A Study in Air Surveillance Radars".
+:::
 
 ----
 
@@ -72,6 +76,7 @@ Conducted **tutorial classes and computer practical sessions** for the following
 
 #### Statistical Consultancy Projects
 
+::: {style="text-align: justify;"}
 * The client who was pursuing the MPhil needed to identify the plant assemblage in the wetland and its relationship with water quality and soil quality. One way ANOVA models were used to find the effect of vegetation type on each water quality parameter. Next the MANOVA model was used to find the effect of vegetation type on water quality and soil quality parameters collectively. Finally, the tukey test was used to find the significantly different vegetation types for each variable. A report containing the methodology, outputs and interpretations was delivered.
 
 * The client wanted to determine the characterization of phytochemical composition, antioxidant and anti-inflammatory properties of aerial roots of Ficus benghalensis. Statistical analysis was done and a report containing the methodology, outputs and interpretations was delivered. 
@@ -81,6 +86,7 @@ Conducted **tutorial classes and computer practical sessions** for the following
 * The project from a postgraduate client. The purpose was to visualize the Dengue hotspots and maps from the provided shapefiles. The initial dengue hotspot visualization and a report for Dengue hotspot Visualization were created. Provided guidelines to be followed when shapefiles with matching coordinate systems are available and provided a reusable code to be used in the analysis.
 
 * The project submitted by a client from the Department of Food Science and Technology, Faculty of Applied Sciences, University of Sri Jayewardenepura. Consulted the client on the descriptive analysis of data, data modeling and model fitting and interpretation of the statistical outputs. Created and delivered an R function for the needed statistical data analysis. Providing interpretations for the outputs taken and delivered to the client along with the reasons.
+:::
 
 ----
 
@@ -88,7 +94,9 @@ Conducted **tutorial classes and computer practical sessions** for the following
 
 **Analytics Group, Dialog Axiata PLC.**
 
+::: {style="text-align: justify;"}
 Worked as an intern data analyst in Analytics Group as a part of the retailer analytics team and worked on improving and operationalizing AI factory ML models.
+:::
 
 ![](image_dialog_ida.jpg){width=300 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 

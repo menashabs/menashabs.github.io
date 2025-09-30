@@ -4,14 +4,15 @@ title: Projects
 
 ## Final Year Undergraduate Research Project
 
-Project title: Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach
+::: {style="text-align: justify;"}
+Project title: **Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach**
 
 * This project was able to fill the identified research gap <br>
 * Introduced a novel algorithm to forecast the price direction based on clustering and classification techniques. <br> 
 * Rewarded with a grade of A (Grade point: 4.00 out of 4.00 scale) at the final evaluation. <br> 
 * Won a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). <br> 
 * Published as an article in the Sri Lanka Journal of Applied Statistics (SLJAS), Volume 25 Issue 1.
-
+:::
 ----
 
 ## Academic Projects
