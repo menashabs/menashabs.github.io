@@ -172,7 +172,7 @@
     "href": "index.html#education",
     "title": "Hello and welcome to my website!",
     "section": "Education",
-    "text": "Education\n\nBSc (Honours) in Statistics | January 2019 - June 2023  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nGCE Ordinary Level and GCE Advanced Level | 2012 - 2017  Southlands Girls College, Galle  Sri Lanka\nSchooling | 2004 - 2012  Sussex College, Galle  Sri Lanka"
+    "text": "Education\n\nBSc (Honours) in Statistics | January 2019 - June 2023  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nSchool  Southlands Girls’ College, Galle  Sri Lanka"
   },
   {
     "objectID": "index.html#experience",
@@ -186,14 +186,14 @@
     "href": "index.html#honours-and-awards",
     "title": "Hello and welcome to my website!",
     "section": "Honours and Awards",
-    "text": "Honours and Awards\n\nIASSL Best Research Awards - 2023  Organized by Institute of Applied Statistics Sri Lanka  Won a merit award for the undergraduate research project titled “Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach”."
+    "text": "Honours and Awards\n\n\nIASSL Best Research Awards - 2023  Organized by Institute of Applied Statistics Sri Lanka  Won a merit award for the undergraduate research project titled “Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach”."
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
     "title": "Hello and welcome to my website!",
     "section": "Publications",
-    "text": "Publications\n\nSenanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. Sri Lankan Journal of Applied Statistics, 25(1), 34-48.  DOI: 10.4038/sljas.v25i1.8131\nDSjobtracker: What Skills and Qualifications are Required for Data Science Related Jobs?  DOI: https://doi.org/10.32614/CRAN.package.DSjobtracker"
+    "text": "Publications\n\n\nSenanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. Sri Lankan Journal of Applied Statistics, 25(1), 34-48.  DOI: 10.4038/sljas.v25i1.8131\nDSjobtracker: What Skills and Qualifications are Required for Data Science Related Jobs?  DOI: https://doi.org/10.32614/CRAN.package.DSjobtracker"
   },
   {
     "objectID": "4_teaching/index.html#assistant-lecturer-august-2024---present",
@@ -375,20 +375,48 @@
     "href": "4_blogposts/index.html",
     "title": "Blog Posts",
     "section": "",
-    "text": "Understanding Correlation: Measures, Interpretations, and Why It Doesn’t Imply Causation\n\n\n\n\nREAD ARTICLE HERE\n\n\n\n\n\n\n\nChoose Appropriate Parametric Tests and Non-parametric Tests in order to Gain Better Insights\n\n\n\n\nREAD ARTICLE HERE\n\n\n\n\n\n\n\nSelect a Representative Sample when Considering the Whole Population is Not Practical\n\n\n\n\nREAD ARTICLE HERE\n\n\n\n\n\n\n\nSummarize Data in an Organized Manner with Descriptive Analysis\n\n\n\n\nREAD ARTICLE HERE"
+    "text": "Understanding Correlation: Measures, Interpretations, and Why It Doesn’t Imply Causation  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nChoose Appropriate Parametric Tests and Non-parametric Tests in order to Gain Better Insights  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelect a Representative Sample when Considering the Whole Population is Not Practical  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nSummarize Data in an Organized Manner with Descriptive Analysis  READ ARTICLE HERE"
   },
   {
     "objectID": "4_blogposts/index.html#statistics-topics",
     "href": "4_blogposts/index.html#statistics-topics",
     "title": "Blog Posts",
     "section": "",
-    "text": "Understanding Correlation: Measures, Interpretations, and Why It Doesn’t Imply Causation\n\n\n\n\nREAD ARTICLE HERE\n\n\n\n\n\n\n\nChoose Appropriate Parametric Tests and Non-parametric Tests in order to Gain Better Insights\n\n\n\n\nREAD ARTICLE HERE\n\n\n\n\n\n\n\nSelect a Representative Sample when Considering the Whole Population is Not Practical\n\n\n\n\nREAD ARTICLE HERE\n\n\n\n\n\n\n\nSummarize Data in an Organized Manner with Descriptive Analysis\n\n\n\n\nREAD ARTICLE HERE"
+    "text": "Understanding Correlation: Measures, Interpretations, and Why It Doesn’t Imply Causation  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nChoose Appropriate Parametric Tests and Non-parametric Tests in order to Gain Better Insights  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelect a Representative Sample when Considering the Whole Population is Not Practical  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nSummarize Data in an Organized Manner with Descriptive Analysis  READ ARTICLE HERE"
   },
   {
     "objectID": "4_blogposts/index.html#random-topics",
     "href": "4_blogposts/index.html#random-topics",
     "title": "Blog Posts",
     "section": "Random Topics",
-    "text": "Random Topics\n\nWhat are Candlestick Charts?\n\n\n\n\nREAD ARTICLE HERE"
+    "text": "Random Topics\n\n\n\n\n\nWhat are Candlestick Charts?  READ ARTICLE HERE"
+  },
+  {
+    "objectID": "2_experience/index.html#volunteering---experiences",
+    "href": "2_experience/index.html#volunteering---experiences",
+    "title": "Experience",
+    "section": "Volunteering - Experiences",
+    "text": "Volunteering - Experiences\n\n\nMember and Editorial Assistant  Editorial board for the year 2025  Institute of Applied Statistics Sri Lanka (IASSL) and Sri Lanka Journal of Applied Statistics (SLJAS)\nMember  Academic training committee for the year 2025  Institute of Applied Statistics Sri Lanka (IASSL)\nEditorial Assistant  International Statistics Conference 2024 (ISC 2024)  Conference done in collaboration with Department of Statistics, University of Sri Jayewardenepura, Sri Lanka, Simon Fraser University, Canada and Institute of Applied Statistics Sri Lanka.\nEditorial Assistant  Best Research Awards 2024  Institute of Applied Statistics Sri Lanka (IASSL)\nExaminer  The 10th National Statistics Olympiad 2023  Institute of Applied Statistics Sri Lanka (IASSL)"
+  },
+  {
+    "objectID": "index.html#i-am-menasha-senanayaka-who-is-passionate-in-research-and-eager-to-use-statistical-methods-to-solve-problems.-a-hard-working-responsible-adaptable-and-fast-learning-individual-who-has-specialised-statistics.-keen-in-searching-for-new-concepts-in-the-field-of-statistics.-interested-in-statistics-and-data-science.-i-am-looking-forward-for-my-higher-studies-journey.",
+    "href": "index.html#i-am-menasha-senanayaka-who-is-passionate-in-research-and-eager-to-use-statistical-methods-to-solve-problems.-a-hard-working-responsible-adaptable-and-fast-learning-individual-who-has-specialised-statistics.-keen-in-searching-for-new-concepts-in-the-field-of-statistics.-interested-in-statistics-and-data-science.-i-am-looking-forward-for-my-higher-studies-journey.",
+    "title": "Hello and welcome to my website!",
+    "section": "I am Menasha Senanayaka, who is passionate in research and eager to use statistical methods to solve problems. A hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Interested in statistics and data science. I am looking forward for my higher studies journey.",
+    "text": "I am Menasha Senanayaka, who is passionate in research and eager to use statistical methods to solve problems. A hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Interested in statistics and data science. I am looking forward for my higher studies journey."
+  },
+  {
+    "objectID": "index.html#on-this-website-i-offer-a-glimpse-into-my-knowledge-by-sharing-some-of-my-work-which-includes-projects-experience-workshops-and-blog-posts.",
+    "href": "index.html#on-this-website-i-offer-a-glimpse-into-my-knowledge-by-sharing-some-of-my-work-which-includes-projects-experience-workshops-and-blog-posts.",
+    "title": "Hello and welcome to my website!",
+    "section": "On this website, I offer a glimpse into my knowledge by sharing some of my work which includes Projects, Experience, Workshops and Blog Posts.",
+    "text": "On this website, I offer a glimpse into my knowledge by sharing some of my work which includes Projects, Experience, Workshops and Blog Posts."
+  },
+  {
+    "objectID": "index.html#feel-free-to-contact-me-for-any-inquiry-comments-or-statistical-consultancy.",
+    "href": "index.html#feel-free-to-contact-me-for-any-inquiry-comments-or-statistical-consultancy.",
+    "title": "Hello and welcome to my website!",
+    "section": "Feel free to contact me for any inquiry, comments or statistical consultancy.",
+    "text": "Feel free to contact me for any inquiry, comments or statistical consultancy."
   }
 ]

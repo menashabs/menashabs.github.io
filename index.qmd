@@ -32,30 +32,23 @@ about:
 ::: {style="text-align: justify;"}
 I am Menasha Senanayaka, who is passionate in research and eager to use statistical methods to solve problems. A hard-working, responsible, adaptable, and fast-learning individual who has specialised statistics. Keen in searching for new concepts in the field of statistics. Interested in statistics and data science. I am looking forward for my higher studies journey.
 
-On this website, I offer a glimpse into my knowledge by sharing some of my work which includes  <a href="https://menashabs.github.io/1_projects/">Projects</a>, 
-<a href="https://menashabs.github.io/2_experience/" target="_blank">Experience</a>,
-<a href="https://menashabs.github.io/3_workshops/" target="_blank">Workshops</a> and 
-<a href="https://menashabs.github.io/4_blogposts/" target="_blank">Blog Posts</a>.
+On this website, I offer a glimpse into my knowledge by sharing some of my work which includes  <a href="https://menashabs.github.io/1_projects/">Projects</a>, <a href="https://menashabs.github.io/2_experience/" target="_blank">Experience</a>, <a href="https://menashabs.github.io/3_workshops/" target="_blank">Workshops</a> and <a href="https://menashabs.github.io/4_blogposts/" target="_blank">Blog Posts</a>.
 
 Feel free to <a href="https://menashabs.github.io/5_contact/">contact</a> me for any inquiry, comments or statistical consultancy. 
-
 :::
 
-About me:
+**About me:**
 
-## **Education**
+## Education
 
 * **BSc (Honours) in Statistics | January 2019 - June 2023** <br>
 Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
 Sri Lanka
-* **GCE Ordinary Level and GCE Advanced Level | 2012 - 2017** <br>
-Southlands Girls College, Galle <br>
-Sri Lanka
-* **Schooling | 2004 - 2012** <br>
-Sussex College, Galle <br>
+* **School** <br>
+Southlands Girls' College, Galle <br>
 Sri Lanka
 
-## **Experience**
+## Experience
 
 * **Assistant Lecturer | August 2024 - Present** <br>
 Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
@@ -73,36 +66,28 @@ Sri Lanka
 Retailer Analytics Team, Analytics Division, Dialog Axiata PLC <br>
 Sri Lanka
 
-## **Publications**
+## Publications
 
+::: {style="text-align: justify;"}
 * Senanayaka, N. I. M. B., & Pathberiya, H. A. (2024). Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach. *Sri Lankan Journal of Applied Statistics*, 25(1), 34-48. <br>
 <a href="https://doi.org/10.4038/sljas.v25i1.8131" target="_blank">DOI: 10.4038/sljas.v25i1.8131</a><br>
 * DSjobtracker: What Skills and Qualifications are Required for Data Science Related Jobs? <br>
 <a href="https://doi.org/10.32614/CRAN.package.DSjobtracker" target="_blank">DOI: https://doi.org/10.32614/CRAN.package.DSjobtracker</a><br>
+:::
 
-## **Honours and Awards**
+## Honours and Awards
 
+::: {style="text-align: justify;"}
 * **IASSL Best Research Awards - 2023** <br>
 Organized by Institute of Applied Statistics Sri Lanka <br>
 Won a merit award for the undergraduate research project titled "Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach".
+:::
 
-## **Memberships**
+## Memberships
 
 General member - Life (MIASSL) at the Institute of Applied Statistics Sri Lanka - IASSL.
 
-## **Volunteering**
-
-* **Member and Editorial Assistant** <br>
-Editorial board for the year 2025 <br>
-Institute of Applied Statistics Sri Lanka (IASSL) and Sri Lanka Journal of Applied Statistics (SLJAS)
-* **Member** <br>
-Academic training committee for the year 2025 <br> 
-Institute of Applied Statistics Sri Lanka (IASSL)
-* **Editorial Assistant** <br>
-International Statistics Conference 2024 (ISC 2024) <br>
-Conference done in collaboration with Department of Statistics, University of Sri Jayewardenepura, Sri Lanka, Simon Fraser University, Canada and Institute of Applied Statistics Sri Lanka.
-
-## **Languages**
+## Languages
 
 * **English** <br>
 Full professional proficiency | IELTS Overall Score: 7.0 (no band score less than 6.0)
@@ -111,7 +96,7 @@ Native or bilingual proficiency
 * **Tamil** <br>
 Elementary proficiency
 
-## **Quote**
+## Quote
 *The best thing about being a statistician is that you get to play in everyone's backyard* <br>
 *-John Tukey-*
 

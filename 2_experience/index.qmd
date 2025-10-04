@@ -100,4 +100,25 @@ Worked as an intern data analyst in Analytics Group as a part of the retailer an
 
 ![](image_dialog_ida.jpg){width=300 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
+----
+
+## Volunteering - Experiences
+
+::: {style="text-align: justify;"}
+* **Member and Editorial Assistant** <br>
+Editorial board for the year 2025 <br>
+Institute of Applied Statistics Sri Lanka (IASSL) and Sri Lanka Journal of Applied Statistics (SLJAS)
+* **Member** <br>
+Academic training committee for the year 2025 <br> 
+Institute of Applied Statistics Sri Lanka (IASSL)
+* **Editorial Assistant** <br>
+International Statistics Conference 2024 (ISC 2024) <br>
+Conference done in collaboration with Department of Statistics, University of Sri Jayewardenepura, Sri Lanka, Simon Fraser University, Canada and Institute of Applied Statistics Sri Lanka.
+* **Editorial Assistant** <br>
+Best Research Awards 2024 <br>
+Institute of Applied Statistics Sri Lanka (IASSL)
+* **Examiner** <br>
+The 10th National Statistics Olympiad 2023 <br>
+Institute of Applied Statistics Sri Lanka (IASSL)
+:::
 
