@@ -5,7 +5,7 @@ title: Projects
 ## Final Year Undergraduate Research Project
 
 ::: {style="text-align: justify;"}
-Project title: **Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach**
+#### **Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach**
 
 * This project was able to fill the identified research gap <br>
 * Introduced a novel algorithm to forecast the price direction based on clustering and classification techniques. <br> 
@@ -15,48 +15,65 @@ Project title: **Effectiveness of Using Candlestick Charts to Forecast Ethereum 
 :::
 ----
 
-## Academic Projects
+## Interactive Tools
 
-* **Forecaster: Time Series Forecasting App**
+#### **StudentMarkAnalyser: Students' Exam Mark Analysing App**
+
+::: {style="text-align: justify;"}
+::: {layout-ncol=2}
+
+![](image_studentmarkanalyser.jpg){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
+
+A shiny app to input marks of an examination and obtain the analysis. Anyone needing to conduct an analysis from a mark sheet using an interactive tool can take advantage of this shiny app. Even the users who are not familiar with obtaining statistical outputs from software can take the maximum benefit from this user friendly interactive tool. <br> 
+<a href="https://menashasenanayaka.shinyapps.io/studentmarkanalyser_app/">Shiny App</a> | <a href="https://github.com/menashabs/StudentMarkAnalyser_App">Code</a> 
+
+:::
+:::
+
+#### **Forecaster: Time Series Forecasting App**
 
 ::: {style="text-align: justify;"}
 ::: {layout-ncol=2}
 
 ![](image_forecaster.png){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
-This project was done with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model. <br> 
+This app was created with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model. <br> 
 <a href="https://menashasenanayaka.shinyapps.io/forecaster_shinyapp/">Shiny App</a> | <a href="https://github.com/menashabs/Forecaster_ShinyApp">Code</a> 
 
 :::
 :::
 
-* **DSjobtracker**
+----
+
+## Academic Projects
+
+#### **DSjobtracker**
 
 ::: {style="text-align: justify;"}
 ::: {layout-ncol=2}
 
 ![](image_dsjobtracker.jpg){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
-This project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience. This project was done under the guidance of <a href="https://thiyanga.netlify.app/" target="_blank">Dr. Thiyanga Talagala </a> who is a Senior Lecturer at the Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura. <br>
+This project is about data science jobs. The R flexdashboard was created using the data collected from data science job advertisements. This dashboard provides an idea about the job fields, job requirements, expected education qualifications, skills and experience. This project was done as a group work, under the guidance of <a href="https://thiyanga.netlify.app/" target="_blank">Dr. Thiyanga Talagala </a> who is a Senior Lecturer at the Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura. <br>
 <a href="https://thiyangt.github.io/dsjobtraker_dashboard_mc/#overview" target="_blank">Dashboard</a> | <a href="https://cran.r-project.org/web/packages/DSjobtracker/index.html" target="_blank">CRAN R Package</a> | <a href="https://github.com/thiyangt/dsjobtraker_dashboard_mc" target="_blank">Code</a> | <a href="https://drive.google.com/file/d/17qpwxhxQnC5RdCmJbfNVzTTRxKAaBCBQ/view?usp=drive_link" target="_blank">Video on how the dashboard works</a><br>
 
 :::
 :::
 
-* **Time table dashboard for FAS, USJ**
+#### **Time table dashboard for FAS, USJ**
 
 ::: {style="text-align: justify;"}
 ::: {layout-ncol=2}
 
 ![](image_timetable.png){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
-This project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny app was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view. This project was done under the guidance of <a href="https://thiyanga.netlify.app/" target="_blank">Dr. Thiyanga Talagala </a> who is a Senior Lecturer at the Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura. <br>
+This project is about visualizing the time table of the Faculty of Applied Sciences, University of Sri Jayewardenepura. The R shiny dashboard was created using the data collected from time tables. This dashboard provides an idea about the overview of the faculty time table, course view, lecturer view and lecture hall view. This project was done as a group work, under the guidance of <a href="https://thiyanga.netlify.app/" target="_blank">Dr. Thiyanga Talagala </a> who is a Senior Lecturer at the Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura. <br>
 <a href="https://github.com/menashabs/FAS_2nd_Semester_Timetable_Visualization" target="_blank">Code</a> | <a href="https://drive.google.com/file/d/1MRinbyd_QaJyXqcoUwE0MwYNWq6mFlB7/view?usp=sharing" target="_blank">Video on how the dashboard works</a><br>
 
 :::
 :::
 
-* **Tea Export Revenue Forecasting and Analyzing the Impact of COVID-19** 
+#### **Tea Export Revenue Forecasting and Analyzing the Impact of COVID-19** 
 
 ::: {style="text-align: justify;"}
 ::: {layout-ncol=2}
@@ -69,7 +86,7 @@ This project is about modelling and forecasting the tea export revenue in Sri La
 :::
 :::
 
-* **Myth analysis about mosquito bites and HIV/AIDS**
+#### **Myth analysis about mosquito bites and HIV/AIDS**
 
 ::: {style="text-align: justify;"}
 ::: {layout-ncol=2}
