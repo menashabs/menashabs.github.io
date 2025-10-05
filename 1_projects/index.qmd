@@ -7,7 +7,7 @@ title: Projects
 ::: {style="text-align: justify;"}
 #### **Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach**
 
-* This project was able to fill the identified research gap <br>
+* This project was able to fill the identified research gap. <br>
 * Introduced a novel algorithm to forecast the price direction based on clustering and classification techniques. <br> 
 * Rewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. <br> 
 * Won a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). <br> 
