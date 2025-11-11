@@ -2,12 +2,13 @@
 title: Projects
 ---
 
-## Final Year Undergraduate Research Project
+## BSc (Honours) in Statistics - Final Year Research Project
 
 ::: {style="text-align: justify;"}
 #### **Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach**
 
-* This project was able to fill the identified research gap. <br>
+* This research is among the very few research which is done focusing on Cryptocurreny price direction forecasting based on candlestick chart properties. <br> 
+* The project started with a thorough literature review and was able to fill the identified research gap. <br>
 * Introduced a novel algorithm to forecast the price direction based on clustering and classification techniques. <br> 
 * Rewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. <br> 
 * Won a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). <br> 
@@ -39,6 +40,20 @@ A shiny app to input marks of an examination and obtain the analysis. Anyone nee
 
 This app was created with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model. <br> 
 <a href="https://menashasenanayaka.shinyapps.io/forecaster_shinyapp/">Shiny App</a> | <a href="https://github.com/menashabs/Forecaster_ShinyApp">Code</a> 
+
+:::
+:::
+
+
+#### **WillRogersParadoxExperimenter: Will Rogers Paradox Experimenting App**
+
+::: {style="text-align: justify;"}
+::: {layout-ncol=2}
+
+![](image_willrogersparadoxexperimenter.png){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
+
+A shiny app to experiment the Will Rogers Paradox. The users can play with numbers and experiment about the paradox using this interactive tool. This app can be considered as a fun game which is insightful at the same time. <br> 
+<a href="https://menashasenanayaka.shinyapps.io/willrogersparadoxexperimenter_app/">Shiny App</a> | <a href="https://github.com/menashabs/WillRogersParadoxExperimenter_App">Code</a> 
 
 :::
 :::
@@ -98,4 +113,5 @@ This project investigated how the knowledge regarding the myth of HIV/AIDS, “P
 
 :::
 :::
+
 

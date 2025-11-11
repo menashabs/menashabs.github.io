@@ -42,6 +42,14 @@ title: Blog Posts
 
 ::: {style="text-align: justify;"}
 ::: {layout-ncol=2}
+* The Will Rogers Paradox: When Statistics Tell a Perfectly Silly Truth <br> <a href="https://medium.com/@menashabrayani/the-will-rogers-paradox-when-statistics-tell-a-perfectly-silly-truth-89cc8c2a2d9a" target="_blank">READ ARTICLE HERE</a><br>
+
+![](image_blog_s2_a2.jpg){width=300 height=300 style="display:block;margin-left:auto;margin-right:auto;"}
+:::
+:::
+
+::: {style="text-align: justify;"}
+::: {layout-ncol=2}
 * What are Candlestick Charts? <br> <a href="https://medium.com/@menashabrayani/what-are-candlestick-charts-832c98d318bf" target="_blank">READ ARTICLE HERE</a><br>
 
 ![](image_blog_s2_a1.jpg){width=300 height=300 style="display:block;margin-left:auto;margin-right:auto;"}

@@ -11,7 +11,7 @@
     "href": "1_projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "This project was able to fill the identified research gap. \nIntroduced a novel algorithm to forecast the price direction based on clustering and classification techniques. \nRewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. \nWon a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). \nPublished as an article in the Sri Lanka Journal of Applied Statistics (SLJAS), Volume 25 Issue 1."
+    "text": "This research is among the very few research which is done focusing on Cryptocurreny price direction forecasting based on candlestick chart properties. \nThe project started with a thorough literature review and was able to fill the identified research gap. \nIntroduced a novel algorithm to forecast the price direction based on clustering and classification techniques. \nRewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. \nWon a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). \nPublished as an article in the Sri Lanka Journal of Applied Statistics (SLJAS), Volume 25 Issue 1."
   },
   {
     "objectID": "1_projects/index.html#academic-projects",
@@ -263,7 +263,7 @@
     "href": "index.html#quote",
     "title": "Hello and welcome to my website!",
     "section": "Quote",
-    "text": "Quote\nThe best thing about being a statistician is that you get to play in everyone’s backyard  -John Tukey-"
+    "text": "Quote\nThe best thing about being a statistician is that you get to play in everyone’s backyard  - John Tukey -"
   },
   {
     "objectID": "4_teaching/index.html#statistical-consultant-january-2023---april-2024",
@@ -368,7 +368,7 @@
     "href": "index.html#languages",
     "title": "Hello and welcome to my website!",
     "section": "Languages",
-    "text": "Languages\n\nEnglish  Full professional proficiency | IELTS Overall Score: 7.0 (no band score less than 6.0)\nSinhala  Native or bilingual proficiency\nTamil  Elementary proficiency"
+    "text": "Languages\n\nEnglish: Full professional | IELTS Overall Score: 7.0 (no band score less than 6.0)\nSinhala: Native\nTamil: Elementary"
   },
   {
     "objectID": "4_blogposts/index.html",
@@ -389,14 +389,14 @@
     "href": "4_blogposts/index.html#random-topics",
     "title": "Blog Posts",
     "section": "Random Topics",
-    "text": "Random Topics\n\n\n\n\n\nWhat are Candlestick Charts?  READ ARTICLE HERE"
+    "text": "Random Topics\n\n\n\n\n\nThe Will Rogers Paradox: When Statistics Tell a Perfectly Silly Truth  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat are Candlestick Charts?  READ ARTICLE HERE"
   },
   {
     "objectID": "2_experience/index.html#volunteering---experiences",
     "href": "2_experience/index.html#volunteering---experiences",
     "title": "Experience",
     "section": "Volunteering - Experiences",
-    "text": "Volunteering - Experiences\n\n\nMember and Editorial Assistant  Editorial board for the year 2025  Institute of Applied Statistics Sri Lanka (IASSL) and Sri Lanka Journal of Applied Statistics (SLJAS)\nMember  Academic training committee for the year 2025  Institute of Applied Statistics Sri Lanka (IASSL)\nEditorial Assistant  International Statistics Conference 2024 (ISC 2024)  Conference done in collaboration with Department of Statistics, University of Sri Jayewardenepura, Sri Lanka, Simon Fraser University, Canada and Institute of Applied Statistics Sri Lanka.\nEditorial Assistant  Best Research Awards 2024  Institute of Applied Statistics Sri Lanka (IASSL)\nExaminer  The 10th National Statistics Olympiad 2023  Institute of Applied Statistics Sri Lanka (IASSL)"
+    "text": "Volunteering - Experiences\n\n\nMember (April 2025 - Present)  Academic training committee  Institute of Applied Statistics Sri Lanka (IASSL)\nMember and Editorial Assistant (April 2025 - September 2025)  Editorial board for the year 2025  Institute of Applied Statistics Sri Lanka (IASSL) and Sri Lanka Journal of Applied Statistics (SLJAS)\nEditorial Assistant (January 2025 - April 2025)  Best Research Awards 2024  Institute of Applied Statistics Sri Lanka (IASSL)\nEditorial Assistant (August 2024 - December 2024)  International Statistics Conference 2024 (ISC 2024)  Conference done in collaboration with Department of Statistics, University of Sri Jayewardenepura, Sri Lanka, Simon Fraser University, Canada and Institute of Applied Statistics Sri Lanka.\nExaminer (November 2023 - December 2023)  The 10th National Statistics Olympiad 2023  Institute of Applied Statistics Sri Lanka (IASSL)"
   },
   {
     "objectID": "index.html#i-am-menasha-senanayaka-who-is-passionate-in-research-and-eager-to-use-statistical-methods-to-solve-problems.-a-hard-working-responsible-adaptable-and-fast-learning-individual-who-has-specialised-statistics.-keen-in-searching-for-new-concepts-in-the-field-of-statistics.-interested-in-statistics-and-data-science.-i-am-looking-forward-for-my-higher-studies-journey.",
@@ -424,6 +424,13 @@
     "href": "1_projects/index.html#interactive-tools",
     "title": "Projects",
     "section": "Interactive Tools",
-    "text": "Interactive Tools\n\nStudentMarkAnalyser: Students’ Exam Mark Analysing App\n\n\n\n\n\n\n\nA shiny app to input marks of an examination and obtain the analysis. Anyone needing to conduct an analysis from a mark sheet using an interactive tool can take advantage of this shiny app. Even the users who are not familiar with obtaining statistical outputs from software can take the maximum benefit from this user friendly interactive tool.  Shiny App | Code\n\n\n\n\n\n\nForecaster: Time Series Forecasting App\n\n\n\n\n\n\n\nThis app was created with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model.  Shiny App | Code"
+    "text": "Interactive Tools\n\nStudentMarkAnalyser: Students’ Exam Mark Analysing App\n\n\n\n\n\n\n\nA shiny app to input marks of an examination and obtain the analysis. Anyone needing to conduct an analysis from a mark sheet using an interactive tool can take advantage of this shiny app. Even the users who are not familiar with obtaining statistical outputs from software can take the maximum benefit from this user friendly interactive tool.  Shiny App | Code\n\n\n\n\n\n\nForecaster: Time Series Forecasting App\n\n\n\n\n\n\n\nThis app was created with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model.  Shiny App | Code\n\n\n\n\n\n\nWillRogersParadoxExperimenter: Will Rogers Paradox Experimenting App\n\n\n\n\n\n\n\nA shiny app to experiment the Will Rogers Paradox. The users can play with numbers and experiment about the paradox using this interactive tool. This app can be considered as a fun game which is insightful at the same time.  Shiny App | Code"
+  },
+  {
+    "objectID": "1_projects/index.html#bsc-honours-in-statistics---final-year-research-project",
+    "href": "1_projects/index.html#bsc-honours-in-statistics---final-year-research-project",
+    "title": "Projects",
+    "section": "",
+    "text": "This research is among the very few research which is done focusing on Cryptocurreny price direction forecasting based on candlestick chart properties. \nThe project started with a thorough literature review and was able to fill the identified research gap. \nIntroduced a novel algorithm to forecast the price direction based on clustering and classification techniques. \nRewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. \nWon a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). \nPublished as an article in the Sri Lanka Journal of Applied Statistics (SLJAS), Volume 25 Issue 1."
   }
 ]

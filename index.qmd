@@ -35,6 +35,8 @@ I am Menasha Senanayaka, who is passionate in research and eager to use statisti
 On this website, I offer a glimpse into my knowledge by sharing some of my work which includes  <a href="https://menashabs.github.io/1_projects/">Projects</a>, <a href="https://menashabs.github.io/2_experience/" target="_blank">Experience</a>, <a href="https://menashabs.github.io/3_workshops/" target="_blank">Workshops</a> and <a href="https://menashabs.github.io/4_blogposts/" target="_blank">Blog Posts</a>.
 
 Feel free to <a href="https://menashabs.github.io/5_contact/">contact</a> me for any inquiry, comments or statistical consultancy. 
+
+I provide statistical consultancy services through my personal initiative named <a href="https://brainystatisticswork.netlify.app/" target="_blank">Brainy Statistics Work</a>. It is an online statistical consultancy dedicated to making data simple, meaningful, and actionable. I help students, graduates, professionals, and organizations harness the power of statistics with clarity and confidence.
 :::
 
 **About me:**
@@ -89,16 +91,12 @@ General member - Life (MIASSL) at the Institute of Applied Statistics Sri Lanka 
 
 ## Languages
 
-* **English** <br>
-Full professional proficiency | IELTS Overall Score: 7.0 (no band score less than 6.0)
-* **Sinhala** <br>
-Native or bilingual proficiency
-* **Tamil** <br>
-Elementary proficiency
+* **English:** Full professional | IELTS Overall Score: 7.0 (no band score less than 6.0)
+* **Sinhala:** Native 
+* **Tamil:** Elementary 
 
 ## Quote
 *The best thing about being a statistician is that you get to play in everyone's backyard* <br>
-*-John Tukey-*
-
+*- John Tukey -*
 
 
