@@ -36,7 +36,6 @@ On this website, I offer a glimpse into my knowledge by sharing some of my work 
 
 Feel free to <a href="https://menashabs.github.io/5_contact/">contact</a> me for any inquiry, comments or statistical consultancy. 
 
-I provide statistical consultancy services through my personal initiative named <a href="https://brainystatisticswork.netlify.app/" target="_blank">Brainy Statistics Work</a>. It is an online statistical consultancy dedicated to making data simple, meaningful, and actionable. I help students, graduates, professionals, and organizations harness the power of statistics with clarity and confidence.
 :::
 
 **About me:**
@@ -98,5 +97,3 @@ General member - Life (MIASSL) at the Institute of Applied Statistics Sri Lanka 
 ## Quote
 *The best thing about being a statistician is that you get to play in everyone's backyard* <br>
 *- John Tukey -*
-
-
