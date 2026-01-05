@@ -43,29 +43,22 @@ Feel free to <a href="https://menashabs.github.io/5_contact/">contact</a> me for
 ## Education
 
 * **BSc (Honours) in Statistics | January 2019 - June 2023** <br>
-Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
-Sri Lanka
+Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura, Sri Lanka
 * **School** <br>
-Southlands Girls' College, Galle <br>
-Sri Lanka
+Southlands Girls' College, Galle, Sri Lanka
 
 ## Experience
 
-* **Assistant Lecturer | August 2024 - Present** <br>
-Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
-Sri Lanka 
 * **Visiting Lecturer | May 2024 - Present** <br>
-Institute of Applied Statistics Sri Lanka (IASSL) <br>
-Sri Lanka 
+Institute of Applied Statistics Sri Lanka, Sri Lanka 
+* **Assistant Lecturer | August 2024 - October 2025** <br>
+University of Sri Jayewardenepura, Sri Lanka 
 * **Teaching Assistant | July 2023 - April 2024** <br>
-Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br>
-Sri Lanka 
+University of Sri Jayewardenepura, Sri Lanka 
 * **Statistical Consultant | January 2023 - April 2024** <br>
-Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura <br> 
-Sri Lanka 
+University of Sri Jayewardenepura, Sri Lanka 
 * **Intern - Data Analyst | June 2022 - December 2022** <br>
-Retailer Analytics Team, Analytics Division, Dialog Axiata PLC <br>
-Sri Lanka
+Dialog Axiata PLC, Sri Lanka
 
 ## Publications
 
@@ -97,3 +90,5 @@ General member - Life (MIASSL) at the Institute of Applied Statistics Sri Lanka 
 ## Quote
 *The best thing about being a statistician is that you get to play in everyone's backyard* <br>
 *- John Tukey -*
+
+

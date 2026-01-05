@@ -172,14 +172,14 @@
     "href": "index.html#education",
     "title": "Hello and welcome to my website!",
     "section": "Education",
-    "text": "Education\n\nBSc (Honours) in Statistics | January 2019 - June 2023  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nSchool  Southlands Girls’ College, Galle  Sri Lanka"
+    "text": "Education\n\nBSc (Honours) in Statistics | January 2019 - June 2023  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura, Sri Lanka\nSchool  Southlands Girls’ College, Galle, Sri Lanka"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Hello and welcome to my website!",
     "section": "Experience",
-    "text": "Experience\n\nAssistant Lecturer | August 2024 - Present  Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nVisiting Lecturer | May 2024 - Present  Institute of Applied Statistics Sri Lanka (IASSL)  Sri Lanka\nTeaching Assistant | July 2023 - April 2024  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nStatistical Consultant | January 2023 - April 2024  Department of Statistics, Faculty of Applied Sciences, University of Sri Jayewardenepura  Sri Lanka\nIntern - Data Analyst | June 2022 - December 2022  Retailer Analytics Team, Analytics Division, Dialog Axiata PLC  Sri Lanka"
+    "text": "Experience\n\nVisiting Lecturer | May 2024 - Present  Institute of Applied Statistics Sri Lanka, Sri Lanka\nAssistant Lecturer | August 2024 - October 2025  University of Sri Jayewardenepura, Sri Lanka\nTeaching Assistant | July 2023 - April 2024  University of Sri Jayewardenepura, Sri Lanka\nStatistical Consultant | January 2023 - April 2024  University of Sri Jayewardenepura, Sri Lanka\nIntern - Data Analyst | June 2022 - December 2022  Dialog Axiata PLC, Sri Lanka"
   },
   {
     "objectID": "index.html#honours-and-awards",
@@ -305,7 +305,7 @@
     "href": "2_experience/index.html",
     "title": "Experience",
     "section": "",
-    "text": "Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura\n\n\n\nAMT 112 2.0 Mathematical Statistics I | Course Outline\nAMT 212 2.0 Mathematical Statistics II | Course Outline\nMAN 103 1.0 Methods of Operational Research | Course Outline\n\n\n\n\n\nAMT 325 2.0 Regression Analysis | Course Outline\nAMT 377 2.0 Computational Statistics | Course Outline\nMAN 128 1.0 Introduction to Statistics | Course Outline\n\n\n\n\n\n\nCo-supervised final year undergraduate research projects of the BSc (Honours) in Applied Sciences (Applied Mathematics) titled “Predicting the Impact of Tunnel Excavation on Groundwater Levels in Wells - A Machine Learning Approach”.\nProviding statistical guidance for the final year undergraduate research and industry collaboration projects."
+    "text": "Institute of Applied Statistics Sri Lanka (IASSL)\n\n\n\nCAS 105 1.0 Introduction to Statistical Modeling | Course Outline\n\n\n\n\n\n\nSupervised a Higher Diploma in Applied Statistics research projects titled “Predictive Model to Forecast Detection Probability: A Study in Air Surveillance Radars”."
   },
   {
     "objectID": "2_experience/index.html#assistant-lecturer-august-2024---present",
@@ -318,8 +318,8 @@
     "objectID": "2_experience/index.html#visiting-lecturer-may-2024---present",
     "href": "2_experience/index.html#visiting-lecturer-may-2024---present",
     "title": "Experience",
-    "section": "Visiting Lecturer (May 2024 - Present)",
-    "text": "Visiting Lecturer (May 2024 - Present)\nInstitute of Applied Statistics Sri Lanka (IASSL)\n\nCertificate in Applied Statistics\n\nCAS 105 1.0 Introduction to Statistical Modeling | Course Outline\n\n\n\nResearch Project Supervision\n\n\nSupervised a Higher Diploma in Applied Statistics research projects titled “Predictive Model to Forecast Detection Probability: A Study in Air Surveillance Radars”."
+    "section": "",
+    "text": "Institute of Applied Statistics Sri Lanka (IASSL)\n\n\n\nCAS 105 1.0 Introduction to Statistical Modeling | Course Outline\n\n\n\n\n\n\nSupervised a Higher Diploma in Applied Statistics research projects titled “Predictive Model to Forecast Detection Probability: A Study in Air Surveillance Radars”."
   },
   {
     "objectID": "2_experience/index.html#teaching-assistant-july-2023---april-2024",
@@ -432,5 +432,12 @@
     "title": "Projects",
     "section": "",
     "text": "This research is among the very few research which is done focusing on Cryptocurreny price direction forecasting based on candlestick chart properties. \nThe project started with a thorough literature review and was able to fill the identified research gap. \nIntroduced a novel algorithm to forecast the price direction based on clustering and classification techniques. \nRewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. \nWon a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). \nPublished as an article in the Sri Lanka Journal of Applied Statistics (SLJAS), Volume 25 Issue 1."
+  },
+  {
+    "objectID": "2_experience/index.html#assistant-lecturer-august-2024---october-2025",
+    "href": "2_experience/index.html#assistant-lecturer-august-2024---october-2025",
+    "title": "Experience",
+    "section": "Assistant Lecturer (August 2024 - October 2025)",
+    "text": "Assistant Lecturer (August 2024 - October 2025)\nDepartment of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura\n\nAcademic Year 2025/26 | Semester I\n\nAMT 112 2.0 Mathematical Statistics I | Course Outline\nAMT 212 2.0 Mathematical Statistics II | Course Outline\nMAN 103 1.0 Methods of Operational Research | Course Outline\n\n\n\nAcademic Year 2024/25 | Semester II\n\nAMT 325 2.0 Regression Analysis | Course Outline\nAMT 377 2.0 Computational Statistics | Course Outline\nMAN 128 1.0 Introduction to Statistics | Course Outline\n\n\n\nFinal Year Undergraduate Research Project Supervision\n\n\nCo-supervised final year undergraduate research projects of the BSc (Honours) in Applied Sciences (Applied Mathematics) titled “Predicting the Impact of Tunnel Excavation on Groundwater Levels in Wells - A Machine Learning Approach”.\nProviding statistical guidance for the final year undergraduate research and industry collaboration projects."
   }
 ]
