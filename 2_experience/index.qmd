@@ -6,7 +6,9 @@ title: Experience
 
 **Department of Mathematics, Faculty of Engineering, University of Moratuwa**
 
-* **Research assistant for the granted project done in collaboration with Ministry of Education, Higher Education and Vocational Education.**
+#### Research project using statistical and machine learning methods
+
+* Research assistant for the granted project done in collaboration with Ministry of Education, Higher Education and Vocational Education.
 
 ----
 
@@ -121,3 +123,7 @@ Conference done in collaboration with Department of Statistics, University of Sr
 The 10th National Statistics Olympiad 2023 <br>
 Institute of Applied Statistics Sri Lanka (IASSL)
 :::
+
+
+
+
