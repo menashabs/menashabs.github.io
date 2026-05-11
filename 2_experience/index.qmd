@@ -9,7 +9,7 @@ title: Experience
 #### Research project using statistical and machine learning methods
 
 ::: {style="text-align: justify;"}
-* Research assistant for the granted project done in collaboration with Ministry of Education, Higher Education and Vocational Education.
+* Working on a granted research project.
 * Main tasks include primary and secondary data collection, data preprocessing, data analysis, predictive
 modeling and results interpretation.
 :::
