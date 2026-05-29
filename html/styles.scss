@@ -36,8 +36,9 @@ $light:     $gray-400 !default;
 $dark:      $black !default;
 
 // navigation bar
-$navbar-bg: $gray-900 !default;
+$navbar-bg: $black !default;
 $navbar-fg: $gray-200 !default;
+$navbar-hl: $gray-400 !default;
 
 // Links
 $link-color: $primary !default;
@@ -120,3 +121,4 @@ $btn-code-copy-color-active: $orange !default;
         }
     }
 }
+
