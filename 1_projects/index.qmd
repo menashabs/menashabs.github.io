@@ -60,7 +60,7 @@ A shiny app to experiment the Will Rogers Paradox. The users can play with numbe
 
 ----
 
-## Other Projects
+## Other Academic Projects
 
 #### **DSjobtracker**
 
