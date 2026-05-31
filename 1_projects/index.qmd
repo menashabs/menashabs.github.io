@@ -26,7 +26,7 @@ title: Projects
 ![](image_studentmarkanalyser.jpg){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
 A shiny app to input marks of an examination and obtain the analysis. Anyone needing to conduct an analysis from a mark sheet using an interactive tool can take advantage of this shiny app. Even the users who are not familiar with obtaining statistical outputs from software can take the maximum benefit from this user friendly interactive tool. <br> 
-<a href="https://menashasenanayaka.shinyapps.io/studentmarkanalyser_app/">Shiny App</a> | <a href="https://github.com/menashabs/StudentMarkAnalyser_App">Code</a> 
+<a href="https://menashasenanayaka.shinyapps.io/studentmarkanalyser_app/">Shiny App</a> | <a href="https://github.com/menashabs/StudentMarkAnalyser_App">Code</a> | <a href="https://drive.google.com/file/d/1TJUqKCpdtvI0bUnyH7Bxm3Sygd6XeDsN/view?usp=drive_link">Demo Video</a> 
 
 :::
 :::
@@ -39,7 +39,7 @@ A shiny app to input marks of an examination and obtain the analysis. Anyone nee
 ![](image_forecaster.png){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
 This app was created with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model. <br> 
-<a href="https://menashasenanayaka.shinyapps.io/forecaster_shinyapp/">Shiny App</a> | <a href="https://github.com/menashabs/Forecaster_ShinyApp">Code</a> 
+<a href="https://menashasenanayaka.shinyapps.io/forecaster_shinyapp/">Shiny App</a> | <a href="https://github.com/menashabs/Forecaster_ShinyApp">Code</a> | <a href="https://drive.google.com/file/d/17FsgnxjyyZIUa-bJlChd_lMhEols9BHw/view?usp=drive_link">Demo Video</a> 
 
 :::
 :::
@@ -53,14 +53,14 @@ This app was created with the purpose of using a time series dataset, fitting th
 ![](image_willrogersparadoxexperimenter.png){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
 
 A shiny app to experiment the Will Rogers Paradox. The users can play with numbers and experiment about the paradox using this interactive tool. This app can be considered as a fun game which is insightful at the same time. <br> 
-<a href="https://menashasenanayaka.shinyapps.io/willrogersparadoxexperimenter_app/">Shiny App</a> | <a href="https://github.com/menashabs/WillRogersParadoxExperimenter_App">Code</a> 
+<a href="https://menashasenanayaka.shinyapps.io/willrogersparadoxexperimenter_app/">Shiny App</a> | <a href="https://github.com/menashabs/WillRogersParadoxExperimenter_App">Code</a> | <a href="https://drive.google.com/file/d/1CzraU88wnmCHgvHrARolBG5b3KMEsL8U/view?usp=drive_link">Demo Video</a> 
 
 :::
 :::
 
 ----
 
-## Academic Projects
+## Other Academic Projects
 
 #### **DSjobtracker**
 
