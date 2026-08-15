@@ -18,6 +18,19 @@ title: Projects
 
 ## Interactive Tools
 
+#### **SmartRegress: Interactive Regression Learning App**
+
+::: {style="text-align: justify;"}
+::: {layout-ncol=2}
+
+![](image_smartregress.png){width=400 height=400 style="display:block;margin-left:auto;margin-right:auto;"}
+
+A shiny app to simulate linear regression scenarios, inspect classical model assumptions, and obtain real-time diagnostic outputs. Anyone needing to explore linear regression concepts using an interactive tool can take advantage of this app. Even users who are not familiar with obtaining statistical outputs from software can take benefit from this user friendly app. <br> 
+<a href="https://menashasenanayaka.shinyapps.io/smartregress_app/">Shiny App</a> | <a href="https://github.com/menashabs/SmartRegress_App">Code</a>  
+
+:::
+:::
+
 #### **StudentMarkAnalyser: Students' Exam Mark Analysing App**
 
 ::: {style="text-align: justify;"}
