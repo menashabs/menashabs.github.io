@@ -27,8 +27,9 @@ modeling and results interpretation.
 #### Research Project Supervision
 
 ::: {style="text-align: justify;"}
-* Supervised a Higher Diploma in Applied Statistics research projects titled "Predictive Model to
+* Supervised a Higher Diploma in Applied Statistics Batch 3 research projects titled "Predictive Model to
 Forecast Detection Probability: A Study in Air Surveillance Radars".
+* Supervised a Higher Diploma in Applied Statistics Batch 4 research projects titled "The Use of Machine Learning Algorithms to to Predict Antibiotic Absorption of biochar".
 :::
 
 ----
