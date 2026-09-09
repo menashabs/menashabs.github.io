@@ -59,7 +59,7 @@ format:
   html:
     include-in-header:
        text: |
-         <meta name="google-site-verification" content="google545d65604c26071c">
+         <meta name="google-site-verification" content="googlece567b0453d51065">
     fontsize: 1.1em
     theme: 
       - Sandstone
