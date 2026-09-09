@@ -57,6 +57,9 @@ execute:
 
 format:
   html:
+    include-in-header:
+       text: |
+         <meta name="google-site-verification" content="google545d65604c26071c">
     fontsize: 1.1em
     theme: 
       - Sandstone
@@ -67,4 +70,3 @@ format:
     fig-cap-location: margin
     reference-location: margin
     footnotes-hover: true
-
