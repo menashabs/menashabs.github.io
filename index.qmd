@@ -36,6 +36,8 @@ On this website, I offer a glimpse into my knowledge by sharing some of my work 
 
 Feel free to <a href="https://menashabs.github.io/5_contact/">**contact**</a> me for any inquiry, comments or statistical consultancy. 
 
+
+
 :::
 
 **About me:**
@@ -79,9 +81,24 @@ General life member (MIASSL) at the Institute of Applied Statistics Sri Lanka (I
 * **Sinhala:** Native 
 * **Tamil:** Elementary 
 
+## Statistical Consultancy Platform
+
+::: {style="text-align: justify;"}
+I am the founder of **Brainy Stat**, an online statistical consultancy platform providing teaching, statistical consultancy, and data analysis services for students, graduates, professionals, and organizations.
+
+Through Brainy Stat, I aim to make statistics more accessible and practical by providing statistical education, guidance, and support for academic, research, and data-driven projects.
+
+* **Brainy Stat** – Statistical consultancy, teaching, and data analysis platform | <a href="https://brainystatisticswork.netlify.app" target="_blank">Visit Website</a> <br>
+* **YouTube** – Educational videos on Statistics and related topics | <a href="https://www.youtube.com/@BrainyStat-98" target="_blank">Visit YouTube Channel</a>
+* **LinkedIn** – Professional updates, services, and educational content | <a href="https://www.linkedin.com/company/brainy-stat/" target="_blank">Visit LinkedIn Page</a>
+:::
+
 ## Quote
+
 *The best thing about being a statistician is that you get to play in everyone's backyard* <br>
 *- John Tukey -*
+
+
 
 
 

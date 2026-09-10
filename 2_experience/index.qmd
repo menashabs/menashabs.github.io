@@ -2,6 +2,20 @@
 title: Experience
 ---
 
+## Statistics Tutor (September 2026 - Present)
+
+**Preply**
+
+#### Online Statistics Tutor | [**View Tutor Profile**](https://preply.com/en/tutor/7625713){target=_blank}
+
+::: {style="text-align: justify;"}
+* Provide one-to-one online Statistics tutoring to learners from diverse international backgrounds.
+* Tailor lessons to individual learning needs, university course requirements, and academic goals.
+* Support students with statistical concepts, data analysis, and statistical software.
+:::
+
+---
+
 ## Research Assistant (May 2026 - Present)
 
 **Department of Mathematics, Faculty of Engineering, University of Moratuwa**
@@ -9,10 +23,31 @@ title: Experience
 #### Research project using statistical and machine learning methods
 
 ::: {style="text-align: justify;"}
-* Working on a granted research project.
-* Main tasks include primary and secondary data collection, data preprocessing, data analysis, predictive
-modeling and results interpretation.
+* Working on a granted research project under grant number SRC/LT/2026/11. This project is on the supply of NVQ Level 4 health-sector programmes in Sri Lanka and factors influencing their future demand.
+* Contribute to interdisciplinary research using statistical and machine learning methods, including questionnaire development, primary data collection, data preprocessing, statistical analysis, predictive modelling, literature reviews, and research manuscript preparation. 
 :::
+
+----
+
+## Founder / Statistical Consultant & Educator (October 2025 - Present)
+
+**Brainy Stat**
+
+#### Online statistical consultancy and education platform
+
+::: {style="text-align: justify;"}
+* Founded and developed an online platform providing statistical consultancy, teaching, and data analysis services.
+* Provide support in Statistics, statistical modelling, data analysis, and R programming.
+* Develop educational content and resources through the Brainy Stat website, YouTube channel, and LinkedIn platform.
+:::
+
+<div style="text-align: center;">
+<a href="https://brainystatisticswork.netlify.app" target="_blank">**Website**</a> &nbsp; | &nbsp;
+<a href="https://www.youtube.com/@BrainyStat-98" target="_blank">**YouTube**</a> &nbsp; | &nbsp;
+<a href="https://www.linkedin.com/company/brainy-stat/" target="_blank">**LinkedIn**</a>
+</div>
+
+![](image_brainystat.jpg){width=200 height=200 style="display:block;margin-left:auto;margin-right:auto;"}
 
 ----
 
@@ -34,7 +69,7 @@ Forecast Detection Probability: A Study in Air Surveillance Radars".
 
 ----
 
-## Assistant Lecturer (August 2024 - October 2025)
+## Assistant Lecturer (September 2024 - August 2025)
 
 **Department of Mathematics, Faculty of Applied Sciences, University of Sri Jayewardenepura**
 

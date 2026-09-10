@@ -8,11 +8,11 @@ title: Projects
 #### **Effectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach**
 
 * This research is among the very few research which is done focusing on Cryptocurreny price direction forecasting based on candlestick chart properties. <br> 
-* The project started with a thorough literature review and was able to fill the identified research gap. <br>
-* Introduced a novel algorithm to forecast the price direction based on clustering and classification techniques. <br> 
+* Conducted a comprehensive literature review to identify a research gap and proposed a novel predictive algorithm for cryptocurrency market price direction forecasting, resulting in a peer-reviewed publication. <br>
+* Developed a machine learning framework for forecasting cryptocurrency price direction using candlestick chart-derived features, applying clustering and classification techniques with feature engineering, model comparison, and evaluation in R. <br> 
 * Rewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. <br> 
 * Won a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). <br> 
-* Published as an article in the Sri Lanka Journal of Applied Statistics (SLJAS), Volume 25 Issue 1.
+* Published as a first-author article in the *Sri Lanka Journal of Applied Statistics (SLJAS)*, Volume 25 Issue 1.
 :::
 ----
 
@@ -126,5 +126,4 @@ This project investigated how the knowledge regarding the myth of HIV/AIDS, “P
 
 :::
 :::
-
 
