@@ -1,5 +1,10 @@
 ---
 title: Projects
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, follow">
 ---
 
 ## BSc (Honours) in Statistics - Final Year Research Project
