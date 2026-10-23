@@ -7,25 +7,11 @@ format:
         <meta name="robots" content="noindex, follow">
 ---
 
-## Statistics Tutor (September 2026 - Present)
-
-**Preply**
-
-#### Online Statistics Tutor | [**View Tutor Profile**](https://preply.com/en/tutor/7625713){target=_blank}
-
-::: {style="text-align: justify;"}
-* Provide one-to-one online Statistics tutoring to learners from diverse international backgrounds.
-* Tailor lessons to individual learning needs, university course requirements, and academic goals.
-* Support students with statistical concepts, data analysis, and statistical software.
-:::
-
----
-
 ## Research Assistant (May 2026 - Present)
 
 **Department of Mathematics, Faculty of Engineering, University of Moratuwa**
 
-#### Research project using statistical and machine learning methods
+#### Research project in health sector vocational education
 
 ::: {style="text-align: justify;"}
 * Working on a granted research project under grant number SRC/LT/2026/11. This project is on the supply of NVQ Level 4 health-sector programmes in Sri Lanka and factors influencing their future demand.
@@ -168,7 +154,6 @@ Conference done in collaboration with Department of Statistics, University of Sr
 The 10th National Statistics Olympiad 2023 <br>
 Institute of Applied Statistics Sri Lanka (IASSL)
 :::
-
 
 
 
