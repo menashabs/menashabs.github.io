@@ -7,19 +7,6 @@ format:
         <meta name="robots" content="noindex, follow">
 ---
 
-## Research Assistant (May 2026 - Present)
-
-**Department of Mathematics, Faculty of Engineering, University of Moratuwa**
-
-#### Research project in health sector vocational education
-
-::: {style="text-align: justify;"}
-* Working on a granted research project under grant number SRC/LT/2026/11. This project is on the supply of NVQ Level 4 health-sector programmes in Sri Lanka and factors influencing their future demand.
-* Contribute to interdisciplinary research using statistical and machine learning methods, including questionnaire development, primary data collection, data preprocessing, statistical analysis, predictive modelling, literature reviews, and research manuscript preparation. 
-:::
-
-----
-
 ## Founder, Consultant & Educator (October 2025 - Present)
 
 **Brainy Stat: Where Data Meets Clarity**
@@ -56,6 +43,20 @@ format:
 * Supervised a Higher Diploma in Applied Statistics Batch 3 research projects titled "Predictive Model to
 Forecast Detection Probability: A Study in Air Surveillance Radars".
 * Supervised a Higher Diploma in Applied Statistics Batch 4 research projects titled "The Use of Machine Learning Algorithms to to Predict Antibiotic Absorption of biochar".
+:::
+
+----
+
+## Research Assistant (May 2026 - September 2026)
+
+**Department of Mathematics, Faculty of Engineering, University of Moratuwa**
+
+#### Research project about health sector vocational education
+
+::: {style="text-align: justify;"}
+* Worked on a granted research project under grant number SRC/LT/2026/11. 
+* This project was on the supply of NVQ Level 4 health-sector programmes in Sri Lanka and factors influencing their future demand.
+* Contributed to interdisciplinary research using statistical and machine learning methods, including questionnaire development, primary data collection, data preprocessing, statistical analysis, predictive modelling, literature reviews, and research manuscript preparation. 
 :::
 
 ----
@@ -154,6 +155,5 @@ Conference done in collaboration with Department of Statistics, University of Sr
 The 10th National Statistics Olympiad 2023 <br>
 Institute of Applied Statistics Sri Lanka (IASSL)
 :::
-
 
 
