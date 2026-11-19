@@ -36,6 +36,7 @@ format:
 #### Certificate in Applied Statistics
 
 * **CAS 105 1.0 Introduction to Statistical Modeling** | [Course Outline](course_outlines/CAS_105_Course_Outline.pdf)
+* **CAS 106 1.0 Introduction to SPSS** | [Course Outline](course_outlines/CAS_106_Course_Outline.pdf)
 
 #### Research Project Supervision
 
@@ -155,5 +156,4 @@ Conference done in collaboration with Department of Statistics, University of Sr
 The 10th National Statistics Olympiad 2023 <br>
 Institute of Applied Statistics Sri Lanka (IASSL)
 :::
-
 
