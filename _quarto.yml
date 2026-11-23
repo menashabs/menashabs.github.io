@@ -36,11 +36,11 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block"></span>
+      <span class="faux-block">All rights reserved</span>
     center: |
       <span class="faux-block">&#169; N. I. Menasha B. Senanayaka </span>
     right: |
-      <span class="faux-block"></span>
+      <span class="faux-block">Since 2024</span>
 
 project:
   type: website
