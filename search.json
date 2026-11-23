@@ -7,18 +7,25 @@
     "text": "Understanding Correlation: Measures, Interpretations, and Why It Doesn’t Imply Causation  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nChoose Appropriate Parametric Tests and Non-parametric Tests in order to Gain Better Insights  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelect a Representative Sample when Considering the Whole Population is Not Practical  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nSummarize Data in an Organized Manner with Descriptive Analysis  READ ARTICLE HERE"
   },
   {
-    "objectID": "4_blogposts/index.html#statistics-topics",
-    "href": "4_blogposts/index.html#statistics-topics",
+    "objectID": "4_blogposts/index.html#learning-statistics-topics",
+    "href": "4_blogposts/index.html#learning-statistics-topics",
     "title": "Blog Posts",
     "section": "",
     "text": "Understanding Correlation: Measures, Interpretations, and Why It Doesn’t Imply Causation  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nChoose Appropriate Parametric Tests and Non-parametric Tests in order to Gain Better Insights  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelect a Representative Sample when Considering the Whole Population is Not Practical  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nSummarize Data in an Organized Manner with Descriptive Analysis  READ ARTICLE HERE"
+  },
+  {
+    "objectID": "4_blogposts/index.html#the-curious-world-of-statistics",
+    "href": "4_blogposts/index.html#the-curious-world-of-statistics",
+    "title": "Blog Posts",
+    "section": "The Curious World of Statistics",
+    "text": "The Curious World of Statistics\n\n\n\n\n\nThe Will Rogers Paradox: When Statistics Tell a Perfectly Silly Truth  READ ARTICLE HERE"
   },
   {
     "objectID": "4_blogposts/index.html#random-topics",
     "href": "4_blogposts/index.html#random-topics",
     "title": "Blog Posts",
     "section": "Random Topics",
-    "text": "Random Topics\n\n\n\n\n\nThe Will Rogers Paradox: When Statistics Tell a Perfectly Silly Truth  READ ARTICLE HERE\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat are Candlestick Charts?  READ ARTICLE HERE"
+    "text": "Random Topics\n\n\n\n\n\nWhat are Candlestick Charts?  READ ARTICLE HERE"
   },
   {
     "objectID": "1_projects/index.html",
@@ -39,7 +46,14 @@
     "href": "1_projects/index.html#interactive-tools",
     "title": "Projects",
     "section": "Interactive Tools",
-    "text": "Interactive Tools\n\nSmartRegress: Interactive Regression Learning App\n\n\n\n\n\n\n\nA shiny app to simulate linear regression scenarios, inspect classical model assumptions, and obtain real-time diagnostic outputs. Anyone needing to explore linear regression concepts using an interactive tool can take advantage of this app.  Shiny App | Code\n\n\n\n\n\n\nStudentMarkAnalyser: Students’ Exam Mark Analysing App\n\n\n\n\n\n\n\nA shiny app to input marks of an examination and obtain the analysis. Anyone needing to conduct an analysis from a mark sheet using an interactive tool can take advantage of this shiny app. Even the users who are not familiar with obtaining statistical outputs from software can take the maximum benefit from this user friendly interactive tool.  Shiny App | Code | Demo Video\n\n\n\n\n\n\nForecaster: Time Series Forecasting App\n\n\n\n\n\n\n\nThis app was created with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model.  Shiny App | Code | Demo Video\n\n\n\n\n\n\nWillRogersParadoxExperimenter: Will Rogers Paradox Experimenting App\n\n\n\n\n\n\n\nA shiny app to experiment the Will Rogers Paradox. The users can play with numbers and experiment about the paradox using this interactive tool. This app can be considered as a fun game which is insightful at the same time.  Shiny App | Code | Demo Video"
+    "text": "Interactive Tools\n\nSmartRegress: Interactive Regression Learning App\n\n\n\n\n\n\n\nA shiny app to simulate linear regression scenarios, inspect classical model assumptions, and obtain real-time diagnostic outputs. Anyone needing to explore linear regression concepts using an interactive tool can take advantage of this app.  Shiny App | Code\n\n\n\n\n\n\nStudentMarkAnalyser: Students’ Exam Mark Analysing App\n\n\n\n\n\n\n\nA shiny app to input marks of an examination and obtain the analysis. Anyone needing to conduct an analysis from a mark sheet using an interactive tool can take advantage of this shiny app. Even the users who are not familiar with obtaining statistical outputs from software can take the maximum benefit from this user friendly interactive tool.  Shiny App | Code | Demo Video\n\n\n\n\n\n\nForecaster: Time Series Forecasting App\n\n\n\n\n\n\n\nThis app was created with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model.  Shiny App | Code | Demo Video"
+  },
+  {
+    "objectID": "1_projects/index.html#the-curious-world-of-statistics",
+    "href": "1_projects/index.html#the-curious-world-of-statistics",
+    "title": "Projects",
+    "section": "The Curious World of Statistics",
+    "text": "The Curious World of Statistics\n\nWillRogersParadoxExperimenter: Will Rogers Paradox Experimenting App\n\n\n\n\n\n\n\nA shiny app to experiment the Will Rogers Paradox. The users can play with numbers and experiment about the paradox using this interactive tool. This app can be considered as a fun game which is insightful at the same time.  Shiny App | Code | Demo Video"
   },
   {
     "objectID": "1_projects/index.html#other-academic-projects",
