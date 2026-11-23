@@ -11,9 +11,6 @@ about:
       text: Github
       href: https://github.com/menashabs
     - icon: link-45deg
-      text: Email
-      href: "mailto:menashasenanayaka@gmail.com" 
-    - icon: link-45deg
       text: ResearchGate
       href: https://www.researchgate.net/profile/Menasha-Senanayaka
     - icon: link-45deg
