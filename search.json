@@ -32,14 +32,14 @@
     "href": "1_projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "This research is among the very few research which is done focusing on Cryptocurreny price direction forecasting based on candlestick chart properties. \nConducted a comprehensive literature review to identify a research gap and proposed a novel predictive algorithm for cryptocurrency market price direction forecasting, resulting in a peer-reviewed publication. \nDeveloped a machine learning framework for forecasting cryptocurrency price direction using candlestick chart-derived features, applying clustering and classification techniques with feature engineering, model comparison, and evaluation in R. \nRewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. \nWon a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). \nPublished as a first-author article in the Sri Lanka Journal of Applied Statistics (SLJAS), Volume 25 Issue 1."
+    "text": "A shiny app to experiment the Will Rogers Paradox. The users can play with numbers and experiment about the paradox using this interactive tool. This app can be considered as a fun game which is insightful at the same time.  Shiny App | Code | Demo Video"
   },
   {
-    "objectID": "1_projects/index.html#bsc-honours-in-statistics---final-year-research-project",
-    "href": "1_projects/index.html#bsc-honours-in-statistics---final-year-research-project",
+    "objectID": "1_projects/index.html#the-curious-world-of-statistics",
+    "href": "1_projects/index.html#the-curious-world-of-statistics",
     "title": "Projects",
     "section": "",
-    "text": "This research is among the very few research which is done focusing on Cryptocurreny price direction forecasting based on candlestick chart properties. \nConducted a comprehensive literature review to identify a research gap and proposed a novel predictive algorithm for cryptocurrency market price direction forecasting, resulting in a peer-reviewed publication. \nDeveloped a machine learning framework for forecasting cryptocurrency price direction using candlestick chart-derived features, applying clustering and classification techniques with feature engineering, model comparison, and evaluation in R. \nRewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. \nWon a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). \nPublished as a first-author article in the Sri Lanka Journal of Applied Statistics (SLJAS), Volume 25 Issue 1."
+    "text": "A shiny app to experiment the Will Rogers Paradox. The users can play with numbers and experiment about the paradox using this interactive tool. This app can be considered as a fun game which is insightful at the same time.  Shiny App | Code | Demo Video"
   },
   {
     "objectID": "1_projects/index.html#interactive-tools",
@@ -49,11 +49,11 @@
     "text": "Interactive Tools\n\nSmartRegress: Interactive Regression Learning App\n\n\n\n\n\n\n\nA shiny app to simulate linear regression scenarios, inspect classical model assumptions, and obtain real-time diagnostic outputs. Anyone needing to explore linear regression concepts using an interactive tool can take advantage of this app.  Shiny App | Code\n\n\n\n\n\n\nStudentMarkAnalyser: Students’ Exam Mark Analysing App\n\n\n\n\n\n\n\nA shiny app to input marks of an examination and obtain the analysis. Anyone needing to conduct an analysis from a mark sheet using an interactive tool can take advantage of this shiny app. Even the users who are not familiar with obtaining statistical outputs from software can take the maximum benefit from this user friendly interactive tool.  Shiny App | Code | Demo Video\n\n\n\n\n\n\nForecaster: Time Series Forecasting App\n\n\n\n\n\n\n\nThis app was created with the purpose of using a time series dataset, fitting the appropriate model and generating forecasts. The users can input a univariate time series dataset or a multivariate time series dataset in the ascending order of date. The app is designed to optimize parameters and fit the most appropriate model.  Shiny App | Code | Demo Video"
   },
   {
-    "objectID": "1_projects/index.html#the-curious-world-of-statistics",
-    "href": "1_projects/index.html#the-curious-world-of-statistics",
+    "objectID": "1_projects/index.html#bsc-honours-in-statistics---final-year-research-project",
+    "href": "1_projects/index.html#bsc-honours-in-statistics---final-year-research-project",
     "title": "Projects",
-    "section": "The Curious World of Statistics",
-    "text": "The Curious World of Statistics\n\nWillRogersParadoxExperimenter: Will Rogers Paradox Experimenting App\n\n\n\n\n\n\n\nA shiny app to experiment the Will Rogers Paradox. The users can play with numbers and experiment about the paradox using this interactive tool. This app can be considered as a fun game which is insightful at the same time.  Shiny App | Code | Demo Video"
+    "section": "BSc (Honours) in Statistics - Final Year Research Project",
+    "text": "BSc (Honours) in Statistics - Final Year Research Project\n\nEffectiveness of Using Candlestick Charts to Forecast Ethereum Price Direction: A Machine Learning Approach\n\nThis research is among the very few research which is done focusing on Cryptocurreny price direction forecasting based on candlestick chart properties. \nConducted a comprehensive literature review to identify a research gap and proposed a novel predictive algorithm for cryptocurrency market price direction forecasting, resulting in a peer-reviewed publication. \nDeveloped a machine learning framework for forecasting cryptocurrency price direction using candlestick chart-derived features, applying clustering and classification techniques with feature engineering, model comparison, and evaluation in R. \nRewarded with a grade of A (Grade point: 4.00 out of 4.00) at the final evaluation. \nWon a merit award from the undergraduate category of the Best Research Awards 2023, organized by the Institute of Applied Statistics Sri Lanka (IASSL). \nPublished as a first-author article in the Sri Lanka Journal of Applied Statistics (SLJAS), Volume 25 Issue 1."
   },
   {
     "objectID": "1_projects/index.html#other-academic-projects",
@@ -158,7 +158,7 @@
     "href": "index.html",
     "title": "Hello and welcome to my website!",
     "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     ResearchGate\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google Scholar"
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     ResearchGate\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Email"
   },
   {
     "objectID": "index.html#education",
